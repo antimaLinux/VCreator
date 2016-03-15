@@ -1,0 +1,215 @@
+{ 1 }_Black And White_( Hunters Hunted II -- Page 42 )
+
+Prerequisite: Hunter
+
+The world is really a collection of shades of gray, but your character doesn't see it that way. To her, everything is clear as black and white. She thinks in terms of people being either for or against her, hot or cold, good or evil, easy or impossible, stupid or genius. This closed mindset can cost your character dearly in missed opportunities, misunderstandings, and under- or overestimation of others. In social situations where your character's judgmental perspective comes to bear, the difficulties of associated rolls increase by one.
+
+
+{ 1 }_Deep Sleeper_( Vampire: The Masquerade 20th Anniversary Edition -- Page 485 )
+
+When you sleep, it is very difficult for you to awaken. The difficulty of any roll to awaken during the day is increased by two.
+
+
+{ 1 }_Impatient_( Vampire: The Masquerade 20th Anniversary Edition -- Page 485 )
+
+You have no patience for standing around and waiting. You want to do things now -- fuck those slowpokes trying to hold you back. Every time you are forced to wait around instead of acting, a Self-Control roll is required to see if you go tearing off on your own instead.
+
+
+{ 1 }_Isolated Upbringing_(Arcanum)_( Hunters Hunted II -- Page 141 )
+
+Prerequisite: Arcanum Member
+
+You were raised by the Arcanum, either born to an Inquisitor or adopted by the Arcanum at an early age. The Arcanum is all you know. The sanctity of your work is honed by a purity of skill, unclouded by distraction. Unfortunately, you have a limited understanding of the outside world. When in a non-Arcanum setting, subtract one die from all Social dice pools. When field work takes you beyond the Arcanum's walls, how will you react to all the new people, stimuli, and fellow hunters who are not so cloistered?
+
+
+{ 1 }_Isolated Upbringing_(Society Of Leopold)_( Hunters Hunted II -- Page 123 )
+
+Prerequisite: Society Of Leopold Member
+
+You were raised by the Society of Leopold, either born to an Inquisitor or adopted by the Society at an early age. The Inquisition is all you know. The sanctity of your holy work is honed by a purity of skill, unclouded by distraction. Unfortunately, you have a limited understanding of the outside world. When in a non-Society setting, subtract one die from all Social dice pools. When field work takes you beyond the Inquisition's walls, how will you react to all the new people, stimuli, and fellow hunters who are not so cloistered?
+
+
+{ 1 }_Nightmares_( Vampire: The Masquerade 20th Anniversary Edition -- Page 485 )
+
+You experience horrendous nightmares every time you sleep, and memories of them haunt you during your waking hours. Upon awakening, you must make a Willpower roll (difficulty 7) or lose a die on all actions for that night. A botched Willpower roll indicates that, even when awake, you still believe that you are locked in a nightmare.
+
+
+{ 1 }_Prey Exclusion_( Vampire: The Masquerade 20th Anniversary Edition -- Page 485 )
+
+You refuse to hunt a certain class of prey. You might refuse to feed on drug dealers, policemen, accountants, or rich people -- if you accidentally feed upon such an individual, you automatically frenzy and must make a roll to prevent Humanity or Path loss (difficulty 7). Witnessing other Kindred feeding on the object of your exclusion might also provoke a frenzy, at the Storyteller's discretion. Ventrue, owing to the limitations already imposed on their feeding by their Clan weakness, may not take this Flaw.
+
+
+{ 1 }_Shy_( Vampire: The Masquerade 20th Anniversary Edition -- Page 485 )
+
+You are distinctly ill at ease when dealing with people and try to avoid social situations whenever possible. Difficulties for all rolls involving social interaction with strangers are increased by two. If the character becomes the center of attention in a large group, difficulties are increased by three.
+
+
+{ 1 }_Soft-Hearted_( Vampire: The Masquerade 20th Anniversary Edition -- Page 485 )
+
+You cannot stand to watch others suffer. You avoid any situation that involves causing someone physical or emotional pain, unless you make a Willpower roll (difficulty 8). You must have a Humanity rating of 7 or above to take this Flaw -- vampires on Paths of Enlightenment can only take this Flaw with Storyteller approval.
+
+
+{ 1 }_Speech Impediment_( Vampire: The Masquerade 20th Anniversary Edition -- Page 485 )
+
+You have a stammer or other speech impediment that hampers verbal communication. The difficulties of all die rolls involving verbal communication are increased by two. This Flaw must be roleplayed whenever possible.
+
+
+{ 1 }_Tortured Artist_( Lore Of The Clans -- Page 200 )
+
+Prerequisites: Toreador
+
+Nothing is ever good enough for your work. No matter how much praise is lavished upon you, you can only see the flaws and mistakes. This leads to long periods of ennui, which makes your artistic work irregular at best. Further, you throw yourself into business arrangements and social situations with intensity, which often leads to heartbreak, which leads to the pain and passion that fuels your next work. You are at +1 difficulty on Social rolls in which you are being praised, complimented, or treated with respect.
+
+
+{ 1 }_Unconvinced_( Vampire: The Masquerade 20th Anniversary Edition -- Page 485 )
+
+You fail to see the need for the core ideologies of your Sect or Clan, and have gone on record as saying so. Taking your stand has made you suspect in the eyes of your superiors, and may have attracted the attention of your enemies as well.
+
+
+{ 2 }_Amnesia_( Vampire: The Masquerade 20th Anniversary Edition -- Page 486 )
+
+You are unable to remember anything about your past, yourself, or your family (whether mortal or vampiric), though your past might well come back to haunt you. Your origins and the circumstances behind your amnesia are for the Storyteller to determine, and she is encouraged to make it as interesting as possible.
+
+
+{ 2 }_Combat Novice_( Hunters Hunted II -- Page 42 )
+
+Prerequisite: Hunter
+
+Your character might talk a good game, but he's never been around real violence, and when it happens, he's not likely to respond well. When confronted with gunfire; obvious, brutal combat (blood drawn, stab wounds, bones breaking); or any kind of supernatural violence, roll Willpower (difficulty 7). If this roll fails, the character either freezes in place (if his Courage is higher than his Self-Control) or flees the area (if his Self-Control is higher than his Courage). You must make this roll for every scene in which he witnesses a violent occurrence, but if you accumulate five successes, no further rolls need be made for that night of game time. An especially gory show of violence can reset the character's total, however, at the Storyteller's discretion.
+
+
+{ 2 }_Ignorance_( Lore Of The Clans -- Page 270 )
+
+Prerequisites: Caitiff
+
+Many sires abandon their Caitiff progeny without a word of instruction or warning about their new nature. For most Princes, ignorance is no excuse for a breach of the Masquerade, and Sabbat packs are quick to notice weakness. The character starts with no knowledge of the abilities, customs, or politics of the undead, and must learn from their mistakes or find a mentor. Of course, any vampire willing to take on a Caitiff will most likely blood bond the poor wretch, leading to a completely new set of problems. Ignorance is deadly for a vampire, and doubly so for the Clanless.
+
+
+{ 2 }_Lunacy_( Vampire: The Masquerade 20th Anniversary Edition -- Page 486 )
+
+You are affected by the phases of the moon, increasing your chances to frenzy. Under the crescent moon, difficulties to avoid frenzy increase by one. Under the half or gibbous moon, difficulties rise by two. When the moon is full, difficulties increase by three.
+
+
+{ 2 }_Paranoid_( Hunters Hunted II -- Page 132 )
+
+Prerequisite: Government Agent
+
+Too many years in the intelligence business means that you know that it's only paranoia if they're not out to get you. You're suspicious of everything and everyone -- you'd call for backup, but how can you be sure that they're not in on it too? You pick up on innocuous details, each one providing more evidence for the conspiracy against you. Add one to the difficulty of all social interaction rolls.
+
+
+{ 2 }_Phobia_( Vampire: The Masquerade 20th Anniversary Edition -- Page 486 )
+
+You have an overpowering fear of something. Spiders, snakes, crowds, and heights are examples of common phobias. You must make a Courage roll every time you encounter the object of your fear. The difficulty of the roll is determined by the Storyteller. If you fail the roll, you must retreat from the object.
+
+
+{ 2 }_Rat In A Cage_( Lore Of The Clans -- Page 87 )
+
+Prerequisites: Gangrel
+
+Anytime you are penned in or physically restrained (such as by a cage, or with handcuffs), you suffer acute anxiety. The difficulties of any rolls made under such circumstances are increased by two.
+
+
+{ 2 }_Short Fuse_( Vampire: The Masquerade 20th Anniversary Edition -- Page 486 )
+
+You are easily angered. Difficulties to avoid frenzy are two greater. Brujah vampires cannot take this Flaw, as they already suffer from a similar weakness.
+
+
+{ 2 }_Stereotype_( Vampire: The Masquerade 20th Anniversary Edition -- Page 486 )
+
+You buy heavily into all of the vampire stories you've read and heard. You wear a cape or body glitter, speak with an accent, and otherwise act in a cartoonish fashion. Such behavior is embarrassing in the extreme to other Kindred, who are likely to ostracize or mock you (+2 difficulty to Social rolls with other vampires who don't share your habits). You also stand out to hunters.
+
+
+{ 2 }_Territorial_( Vampire: The Masquerade 20th Anniversary Edition -- Page 486 )
+
+You are extremely territorial, staking out a particular area as your hunting ground and reacting aggressively to trespassers. If another vampire enters your territory uninvited, you must make a frenzy roll. If you fail, you immediately attack the interloper and continue attacking until the intruder is dead or has left your hunting grounds. You are reluctant to leave your territory except in desperate circumstances.
+
+
+{ 2 }_Thirst For Innocence_( Vampire: The Masquerade 20th Anniversary Edition -- Page 486 )
+
+The sight of innocence -- of any sort -- arouses in you a terrible bloodlust. Roll Self-Control or Instincts, or else frenzy and attack the source of your hunger.
+
+
+{ 2 }_Vengeful_( Vampire: The Masquerade 20th Anniversary Edition -- Page 486 )
+
+You have a score to settle, incurred either during your mortal days or after the Embrace. You are obsessed with taking your revenge on an individual or group, and it is your overriding priority in any situation where you encounter the object of your revenge. You may temporarily resist your need for vengeance by spending a Willpower point.
+
+
+{ 2 }_Victim Of The Masquerade_( Vampire: The Masquerade 20th Anniversary Edition -- Page 486 )
+
+The Camarilla's propaganda machine did too good a job on you. Even after your Embrace you refused to believe you were a vampire. You remain convinced that there is some logical explanation for your condition, and spend as much time as you can searching for it. You also have problems feeding, and may insist on trying to eat regular food. None of these habits makes you particularly pleasant company for other Kindred. This Flaw must be roleplayed at all times, and is generally taken by Camarilla vampires.
+
+
+{ 3 }_Addicted To Vampire Blood_( Hunters Hunted II -- Page 42 )
+
+Prerequisite: Hunter
+
+Your character constantly needs the rush that only vampire blood can provide her. She feels empty and listless otherwise. This habit is a very dangerous one and can only be overcome via complete abstention (and likely no small amount of therapy). Anytime your character has access to Kindred vitae and wishes to resist the urge to drink, the Storyteller may require a Self-Control roll. If your character has not tasted vampire blood in over a week, you suffer a progressive +1 difficulty to these rolls until she quenches her thirst.
+
+
+{ 3 }_Overstimulated_( Lore Of The Clans -- Page 142 )
+
+Prerequisites: Malkavian
+
+Malkavians notice things that many others do not. That means keeping their eyes and ears open far longer than anyone else does. That makes you easily distracted when trying to focus. Take a +2 penalty to all rolls involving Perception.
+
+
+{ 3 }_Privacy Obsession_( Lore Of The Clans -- Page 239 )
+
+Prerequisites: Tzimisce
+
+Perhaps it is a trait carried in the blood. Perhaps your strict sire carved this lesson into your mind and flesh. Either way, you carry the Tzimisce respect for privacy to extremes. You must make a Willpower roll (difficulty 6) to enter another being's dwelling without being invited, though you can go to fiendishly clever lengths to garner an unwitting invitation. When disturbed in your haven by an uninvited guest, you must make a Self-Control or Instincts roll (difficulty 7) to avoid frenzy.
+
+
+{ 3 }_Religious Hysteria_( Hunters Hunted II -- Page 123 )
+
+Prerequisite: Society Of Leopold Member
+
+Angels and demons are everywhere! You see them. You note the signs of the Divine plan in every nuance of life. The entire world's an omen! The Holy Ghost whispers in your ear constantly. Why do others not understand? Even your brothers and sisters in the faith shake their heads as you breathlessly elucidate your latest holy vision. The difference between this Flaw and the Ecstatic Merit is that people do not take you seriously. Your visions occur a bit too often, are a bit too untenable. Subtract one die from all Social dice pools.
+
+
+{ 3 }_Siege Mentality_( Hunters Hunted II -- Page 132 )
+
+Prerequisite: Government Agent
+
+The agency is your family and your only friends. You don't trust civilians and amateurs to do what you see as your job, and politicians and lawmakers just get in your agency's way. You'd trust other intelligence agencies if they'd just once prove that they could find their collective asses with a mirror and a flashlight. Your attitude has a number of cascading effects. First, you're brash and domineering with "civilians," whether that's an FBI agent talking with local police, or a CIA operative dealing with a private intelligence company. Subtract two dice from all Empathy and Investigation dice pools when dealing with amateurs in your field. Second, you're on edge around other members of the intelligence community, even though you're supposed to be on the same side. Add one to the difficulty of all social interaction rolls with them. Finally, if the law gets in the way of your duty, you won't think twice about breaking it. The Storyteller is encouraged to have your superiors rake you over the coals for your blatant disregard for procedure.
+
+
+{ 3 }_Weak-Willed_( Vampire: The Masquerade 20th Anniversary Edition -- Page 486 )
+
+You are highly susceptible to Dominate and intimidation by others; Dominate attempts automatically affect you unless the Discipline wielder is of higher Generation, and your difficulties to resist Social abilities such as Intimidation or Leadership, as well as mind-altering spells or magic, are increased by two. Your Willpower Trait may never rise above 4.
+
+
+{ 4 }_Bulimia_( Lore Of The Clans -- Page 270 )
+
+Prerequisites: Caitiff
+
+You hunger for blood, and like all vampires, you will eventually feed, but the thought of it still makes you sick. Maybe you're just not cut out for an eternity of bloodsucking, or you had an eating disorder in life that has followed you to the other side of mortality. Whatever the reason, you can't hold your blood. Whenever you feed, make a Stamina roll with a difficulty 8. If you fail, you vomit out the fresh blood before it can be absorbed into your body, spraying it everywhere (embarrassing at best, a breach of the Masquerade at worst). Note that blood taken in frenzy is absorbed normally, though this carries its own risks.
+
+
+{ 4 }_Conspicuous Consumption_( Vampire: The Masquerade 20th Anniversary Edition -- Page 486 )
+
+It is not enough for you to draw nourishment from the blood of mortals -- you believe you must also consume your victim's heart, liver, and other blood-rich tissue. Of course, this will necessitate the deaths of all of your victims (unless you are extremely creative), which might lead to numerous problems with maintaining Humanity (and a low profile). Characters with this Flaw should additionally purchase the Eat Food Merit.
+
+
+{ 4 }_Dead Inside_( Lore Of The Clans -- Page 142 )
+
+Prerequisites: Malkavian
+
+You feel nothing but pain and numbness. While others find ways to make their lives worth living, you sometimes don't get that thrill. Once per session, the Storyteller may cancel any gain of Willpower points.
+
+
+{ 4 }_Guilt-Wracked_( Vampire: The Masquerade 20th Anniversary Edition -- Page 486 )
+
+You simply cannot come to grips with the fact that you must drink blood to survive. You suffer horrible guilt over each time you feed (roll Conscience, difficulty 7, or else frenzy every time you feed -- characters with the Conviction Virtue cannot take this Flaw) and try to avoid doing so as much as possible. This means that you rarely have much blood in your system, leaving you vulnerable to both attacks and hunger-based frenzies.
+
+
+{ 5 }_Manchurian Candidate_( Hunters Hunted II -- Page 132 )
+
+Prerequisite: Government Agent
+
+You're the worst kind of double agent: One who doesn't know he's compromised. Some power unknown to you gave you a task, and you can't help but carry it out. Your controller has programmed you to react to a specific signal -- it could be a trigger word, a pattern of flashing lights, or a specific image. When you encounter your trigger, you'll do whatever your master asked of you. Afterwards, you'll remember up to the point where you encountered the signal -- the rest is a blank. Common duties include spying on your own organization, destroying sensitive documents, assassinating a target named at the same time as the trigger, or stealing valuable equipment. Work with the Storyteller to come up with a signal and a duty. Optionally, you can let the Storyteller work out the details of what you're up to. At some point she will describe your trigger, and you have no knowledge of what happens between that point and when you come around. The Storyteller may leave what happens when you're triggered a mystery -- or might have the other characters encounter you when you're programmed. Work with her to portray your character in his brainwashed state. The brainwashing is strong enough that even supernatural powers may not sway your character from his task.
+
+
+{ 6 }_Flashbacks_( Vampire: The Masquerade 20th Anniversary Edition -- Page 487 )
+
+You managed to make it through the Creation Rites or other similarly traumatic experience, but not wholly intact. The most insignificant thing can throw you into a different mood or state of mind, and as such your behavior is extremely unpredictable. Because of your precarious emotional state, your Willpower fluctuates. At the beginning of each story, make a Willpower roll (you may not spend Willpower for an automatic success). If you succeed, you may participate in the story as normal. If you fail, however, your Willpower score is considered to be 1 for the duration of that session, and you only have one Willpower point to spend. You may roll again at the beginning of the next session to see if you regain your Willpower.

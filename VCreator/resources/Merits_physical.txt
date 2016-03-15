@@ -1,0 +1,177 @@
+{ 1 }_Acute Sense_( Vampire: The Masquerade 20th Anniversary Edition -- Page 479 )
+
+One of your senses is exceptionally sharp, be it sight, hearing, smell, touch, or taste. The difficulties for all tasks involving the use of this particular sense are reduced by two. This Merit can be combined with the Discipline of Auspex to produce superhuman sensory acuity.
+
+
+{ 1 }_Ambidextrous_( Vampire: The Masquerade 20th Anniversary Edition -- Page 480 )
+
+You have a high degree of off-hand dexterity and can perform tasks with the "wrong" hand at no penalty. The rules for taking multiple actions still apply, but you do not suffer a difficulty penalty if you use two weapons or are forced to use your off hand.
+
+
+{ 1 }_Bruiser_( Vampire: The Masquerade 20th Anniversary Edition -- Page 480 )
+
+Your appearance is sufficiently thug-like to inspire fear (or at least disquiet) in those who see you. While you're not necessarily ugly, you do radiate a quiet menace, to the point where people cross the street to avoid passing near you. All Intimidation rolls against those who have not demonstrated their physical superiority to you are at -1 difficulty.
+
+
+{ 1 }_Cannibal_( Lore Of The Clans -- Page 106 )
+
+Prerequisites: Giovanni
+
+Most vampires can't eat food, and even those who can force it down, don't gain sustenance from it. Like them, you still can't stomach the crap most mortals eat. Human meat, on the other hand, brings you great joy. It can be baked, fried, or even raw, and you can tuck right in, and even gain sustenance. Even other vampires look askance at Kindred who devour their prey, though the Dunsirn applaud your respect for tradition.In addition to the blood points every human can provide, you can cannibalize a mortal and gain even more. An average human can provide up to seven helpings of meat (one per health level). Each helping provides you with one blood point.
+
+
+{ 1 }_Catlike Balance_( Vampire: The Masquerade 20th Anniversary Edition -- Page 480 )
+
+You possess an innately perfect sense of balance. Characters with this Merit reduce difficulties of all balance-related rolls (e.g., Dexterity + Athletics to walk along a narrow ledge) by two.
+
+
+{ 1 }_Early Riser_( Vampire: The Masquerade 20th Anniversary Edition -- Page 480 )
+
+No one can explain it, but you seem to have the ability to work on less rest than your fellow vampires. You always seem to be the first to rise and the last to go to bed even if you're been out until dawn. Your Humanity or Path score is considered to be 10 for purposes of deciding when you rise each evening. Vampires with this Merit cannot take the Deep Sleeper Flaw.
+
+
+{ 1 }_Eat Food_( Vampire: The Masquerade 20th Anniversary Edition -- Page 480 )
+
+You have the capacity to eat food and even savor its taste. While you cannot derive any nourishment from eating regular foods, this ability will serve you well in pretending to be human. Of course, you can't digest what you eat, and there will be some point during the evening when you have to heave it back up.
+
+
+{ 1 }_Foul Blood_( Lore Of The Clans -- Page 160 )
+
+Prerequisites: Nosferatu
+
+Your blood is vile; in fact, it tastes so disgusting it requires a Willpower roll (difficulty 6) just to avoid gagging and retching after tasting it. If someone is foolish enough to attempt diablerie on you, they need to succeed in three (difficulty 9) Willpower rolls to go through with it. The blood is so disgusting that no one can keep it down long enough to use it to become a ghoul, either.
+
+
+{ 1 }_Friendly Face_( Vampire: The Masquerade 20th Anniversary Edition -- Page 480 )
+
+You have a face that reminds everyone of someone, to the point where strangers are inclined to be well-inclined toward you because of it. The effect doesn't fade even if you explain the "mistake," leaving you at -1 difficulty on all appropriate Social-based rolls (yes for Seduction, no for Intimidation, for example) when a stranger is involved. This Merit only functions on a first meeting.
+
+
+{ 1 }_Legerdemain_( Lore Of The Clans -- Page 182 )
+
+Prerequisites: Ravnos
+
+You're extremely good at sleight of hand and other physical tricks. Difficulties when using Subterfuge for physical trickery, shell games, card tricks, and so forth, are decreased by two.
+
+
+{ 1 }_Long Fingers_( Lore Of The Clans -- Page 160 )
+
+Prerequisites: Nosferatu
+
+You have been blessed with unusually long and graceful fingers. This means you have an easier time with fine manipulation as well as grappling, gaining an extra die when attempting such actions.
+
+
+{ 1 }_Monstrous Maw (1pt. Merit)_( Lore Of The Clans -- Page 160 )
+
+Prerequisites: Nosferatu
+
+You have either oversized tusks for fangs, or a huge mouth full of sharp teeth. Whatever form it takes, your mouth is that of a monster. When attacking with a bite you do an additional point of damage. You may also add a die to your Intimidation dice pool when you smile.
+
+
+{ 1 }_Piscine_( Lore Of The Clans -- Page 161 )
+
+Prerequisites: Nosferatu
+
+Water is a far more comfortable environment for you, be it the sea or sewer effluent. Rolls involving swimming or underwater movement have their difficulty reduced by 1.
+
+
+{ 1 }_Slimy_( Lore Of The Clans -- Page 161 )
+
+Prerequisites: Nosferatu
+
+You secrete an ooze, which is as disgusting as it sounds. The ooze covers your entire body and soaks into your clothes. It makes you slippery and difficult to hold, requiring opponents to gain two more successes to grapple you. The dampness also makes you a little fire resistant, reducing your difficulty to soak fire damage by 1.
+
+
+{ 1 }_Thousand Meter Killer_( Lore Of The Clans -- Page 26 )
+
+Prerequisites: Assamite
+
+You have proven yourself worthy to join the Assamites' Thousand Meter Club through your remarkable skill with the sniper rifle. The difficulty of all rolls associated with sniping is reduced by -1. You also double the normal range when using a sniper rifle as a weapon.
+
+
+{ 1 - 4 }_Eyes Of Shadow_( Lore Of The Clans -- Page 121 )
+
+Prerequisites: Lasombra
+
+There is something about your eyes that makes you look dark and dangerous. Making eye contact with you is like staring into the Abyss. It may not be obvious why, but anyone you talk to gets a chill when they meet your gaze. The difficulty for any Intimidation roll is reduced by the number of points in this Merit (to a minimum of 2).
+
+
+{ 2 }_Blush Of Health_( Vampire: The Masquerade 20th Anniversary Edition -- Page 480 )
+
+You look more hale and healthy in appearance than other vampires, allowing you to blend with human society much more easily. You still retain the color of a living mortal, and your skin feels only slightly cool to the touch.
+
+
+{ 2 }_Controllable Night Sight_( Lore Of The Clans -- Page 122 )
+
+Prerequisites: Lasombra
+
+Your night vision is extraordinarily good, even for a vampire. The deepest shadows are like looking into a well-lit room for you. However, in normal light or bright conditions, you have to switch back to less-sensitive vision, or the weakest light quickly blinds you. While your night sight is active, you suffer no penalties for the dark and can see perfectly well. Should you use it in well-lit conditions; you suffer a penalty inversely proportional to the usual penalties for darkness.
+
+
+{ 2 }_Drug Resistance_( Lore Of The Clans -- Page 67 )
+
+Prerequisites: Follower of Set
+
+The Setite religion is one fraught with vices, both to compromise enemies and to enlighten initiates. Cultists tend to build up a tolerance to the substances they take directly (if human or ghoul) or through the blood of prey (if Kindred). You are unusually resistant to alcohol, narcotics, and similar addictive substances. You can pretend to be far more under the influence than you are in order to take advantage of an opponent. All rolls to resist the effects of such substances are at -2 difficulty.
+
+
+{ 2 }_Enchanting Voice_( Vampire: The Masquerade 20th Anniversary Edition -- Page 480 )
+
+There is something about your voice that others cannot ignore. When you command, they are cowed. When you seduce, they swoon. Whether thundering, soothing, persuading, or simply talking, your voice commands attention. The difficulties of all rolls involving the use of the voice to persuade, charm, or command are reduced by two.
+
+
+{ 2 }_Science Laboratory_( Hunters Hunted II -- Page 43 )
+
+Prerequisite: Hunter
+
+Your character has access to a fully stocked laboratory with functional scientific apparatuses and research equipment. When she has access to her laboratory, your character can perform experiments, run tests, and collect data, and you may lower your difficulty by 2 for relevant Investigation or Science rolls, or lower the difficulty by 1 for other appropriate rolls (as determined by the Storyteller) while she uses the equipment.
+
+
+{ 2 }_Tough Hide_( Lore Of The Clans -- Page 161 )
+
+Prerequisites: Nosferatu
+
+Your skin is much tougher than usual, possibly like that of a rhino or a lizard. This hide protects you against most damage, granting you an extra die when making a soak roll. However, this bonus does not apply against fire and sunlight.
+
+
+{ 2 OR 4 }_Occult Library_( Hunters Hunted II -- Page 43 )
+
+Prerequisite: Hunter
+
+Your character owns an estimable collection of works on arcane lore. If he has access to his library, you can lower the difficulty of Intelligence-, Occult-, or research-related rolls by 1 when he's attempting to solve an occult mystery or generally learn more about the occult. Having this library doesn't automatically mean the hunter's an occult expert, it just means he has convenient access to some knowledge. If you have purchased the four-point version of this Merit, your character also has an Occult Laboratory stocked with strange and rare ingredients he might need for his Numina rituals.
+
+
+{ 3 }_Addictive Blood_( Lore Of The Clans -- Page 67 )
+
+Prerequisites: Follower of Set
+
+You don't just peddle narcotics; through the blessings of the Dark God, you are the perfect drug. Your blood is especially delicious to others, Kindred or kine. Whoever tastes your blood must, during any subsequent scenes that they meet you, drink again or spend a Willpower point to avoid the pangs of craving. These cravings add +2 difficulty to any Mental or Social rolls. Setites with this Merit find it much easier to blood bond an opponent, as once they have tasted the tainted vitae, they will do almost anything to drink it again.
+
+
+{ 3 }_Daredevil_( Vampire: The Masquerade 20th Anniversary Edition -- Page 480 )
+
+You are good at taking risks, and even better at surviving them. When attempting exceptionally risky non-combat actions (such as leaping from one moving car to another), characters with this Merit add an additional three dice to their rolls, and negate a single botch die that may result from such a roll. Generally, such actions must be at least difficulty 8 and have the potential to inflict at least three health levels of damage if failed.
+
+
+{ 3 }_Efficient Digestion_( Vampire: The Masquerade 20th Anniversary Edition -- Page 480 )
+
+You are able to draw more than the usual amount of nourishment from blood. When feeding, you gain an additional point to your blood pool for every two points of blood you consume. This does not allow you to exceed your blood pool maximum.
+
+
+{ 4 }_Huge Size_( Vampire: The Masquerade 20th Anniversary Edition -- Page 480 )
+
+You are abnormally large in size, at least 6'10" and 300 pounds in weight (well over two meters tall and over 130 kgs). Aside from making you extremely noticeable in public, this extra mass bestows an additional Bruised health level. Characters with this Merit may also gain bonuses to push objects, open barred doors, avoid being knocked down, etc.
+
+
+{ 4 }_Patagia_( Lore Of The Clans -- Page 161 )
+
+Prerequisites: Nosferatu
+
+Your arms and legs have leathery flaps of skin between them, similar to that of a flying squirrel. While they make finding clothes a nightmare, they also allow you to glide for short distances, given enough height and a decent wind. The Storyteller might require an Athletics roll when it comes to landing.
+
+
+{ 5 }_Rugged Bad Looks_( Lore Of The Clans -- Page 161 )
+
+Prerequisites: Nosferatu
+
+While you are still hideous, you are not quite as ugly as most Nosferatu. You still have an appearance of 0, but you might pass for human in the right light. It is a still a good idea to cover up and stay in the shadows, but the sight of you (or even the smell of you) is not cause for someone to immediately think of you as a freak or a trauma victim.. Having said that, you are still ugly enough to unnerve the crap out of most people.

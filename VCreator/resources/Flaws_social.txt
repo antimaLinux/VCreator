@@ -1,0 +1,289 @@
+{ 1 }_Botched Presentation_( Vampire: The Masquerade 20th Anniversary Edition -- Page 489 )
+
+When your sire presented you to the Prince of the city, you flubbed it. Now you're convinced His Majesty hates you (whether he does or not). You need to succeed on a Willpower roll (difficulty 7) just to stand in front of the Prince or one of his duly authorized representatives without running, blubbering, or otherwise making a fool of yourself. This Flaw can only be taken by Camarilla vampires.
+
+
+{ 1 }_Chandala_( Lore Of The Clans -- Page 182 )
+
+Prerequisites: Ravnos; member of the Chandala jati
+
+Being a member of the the Chandala jati is a mixed bag. You are responsible for the disposal of corpses, as well as many other foul tasks, but at the same time, you are often ignored. Your Social rolls against other Ravnos are made at a +2 difficulty.You do not have to take this Flaw to be a member of the Chandala jati, but only members of the Chandala jati may have this Flaw.
+
+
+{ 1 }_Dark Secret_( Vampire: The Masquerade 20th Anniversary Edition -- Page 489 )
+
+You have some sort of secret that, if uncovered, would be of immense embarrassment to you and would make you a pariah in the local Kindred community. This could be anything from having murdered an elder to being a member of the Anarchs.
+
+
+{ 1 }_Expendable_( Vampire: The Masquerade 20th Anniversary Edition -- Page 489 )
+
+Someone in power doesn't want you around. Maybe she wants territory you possess, or is jealous of the attention you're getting from a prize mortal retainer -- the details are irrelevant. What does matter is that she has the power to maneuver you into dangerous situations "for the good of the Sect," and has no compunctions about doing so.
+
+
+{ 1 }_Incomplete Understanding_( Vampire: The Masquerade 20th Anniversary Edition -- Page 490 )
+
+The whole matter has been explained to you, but you're still not quite sure how things in your Sect work. Your imperfect understanding of the rules and regulations of your new existence means that sooner or later, you're going to make a mistake. It's only a matter of time...
+
+
+{ 1 }_Infamous Sire_( Vampire: The Masquerade 20th Anniversary Edition -- Page 490 )
+
+Your sire was, and perhaps still is, distrusted and disliked by many of the city's Kindred. As a result, you are distrusted and disliked as well.
+
+
+{ 1 }_Mistaken Identity_( Vampire: The Masquerade 20th Anniversary Edition -- Page 490 )
+
+You look similar to descriptions of another Kindred, which cause cases of mistaken identity. This can prompt numerous awkward or even dangerous situations, especially if your "twin" has a terrible reputation or is wanted for some crime.
+
+
+{ 1 }_New Arrival_( Vampire: The Masquerade 20th Anniversary Edition -- Page 490 )
+
+You've just arrived in your new city of residence, and don't know anyone in the place. Existing factions may try to recruit or eliminate you, while vampires in positions of authority size you up and take your measure. Meanwhile, your ignorance of the city's current events, history, and politics (not to mention the personality quirks of the vampires already in place) may cause you to make a serious blunder.
+
+
+{ 1 }_New Kid_( Vampire: The Masquerade 20th Anniversary Edition -- Page 490 )
+
+You're the latest in the city to be Embraced or have yet to prove yourself to your Sect, and everyone knows it. That automatically puts you at the bottom of the social totem pole. Other neonates take every opportunity to demonstrate your inferiority, or rival packs constantly test your worthiness to the Sabbat. Even if someone else is added to the ranks of the unliving, you're still regarded as something as a bit of a geek by your peers -- a distinction that can have dangerous consequences if bullets start flying. All Social-related rolls are at +1 difficulty when you are dealing with other neonates. (Ancillae and elders lump you in with all the other neonates under their general disdain.)
+
+
+{ 1 }_Recruitment Target_( Vampire: The Masquerade 20th Anniversary Edition -- Page 490 )
+
+Someone in one of your Sect's enemy organizations wants you, and they want you bad. Every effort is being made to recruit you, willing or no, and the press gangs usually show up at the worst possible time.
+
+
+{ 1 }_Sire's Resentment_( Vampire: The Masquerade 20th Anniversary Edition -- Page 490 )
+
+Your sire dislikes you and wishes you ill. Given the smallest opportunity, she will actively seek to do you harm. Your sire's allies also work against you, and many elders may resent you.
+
+
+{ 1 }_Special Responsibility_( Vampire: The Masquerade 20th Anniversary Edition -- Page 490 )
+
+Shortly after your Embrace, you volunteered for some task in order to gain respect and approval from the vampires around you. Now, you wish you had never opened your damn mouth! While you are not given any special credit for performing this duty, you would lose a lot of respect if you were to stop. The nature and the details of your duty should be worked out with the Storyteller in advance. Ideas can range from lending money to other Kindred to acting as a messenger or possibly gathering victims for ritae (such as Blood Feasts).
+
+
+{ 1 }_Sympathizer_( Vampire: The Masquerade 20th Anniversary Edition -- Page 490 )
+
+You have publicly expressed sympathy for some of the goals and policies of the enemies of your Sect. Your outspoken views on the subject have made you suspect in the eyes of the city's hierarchy, and you may be suspected of (or arrested for) treason.
+
+
+{ 1 - 3 }_Rebel_( Hunters Hunted II -- Page 123 )
+
+Prerequisite: Society Of Leopold Member
+
+You have acquired some infamy in the Society of Leopold. At the one-point version of this Flaw, you might simply be scorned by your betters, who wait for you to slip up. At the two-point version, you are actively loathed and can expect little help. At the three-point version, there are Inquisitors who hate you as much as the supernaturals. You should work with the Storyteller to come up with the specific reason for this ill repute. Bear in mind, your reputation is relative among the divisions within the 7Inquisition. Some sects may embrace you just to spite their rivals. For example, while you might earn the ire of the Society at large by studying the sorcerous arts too closely, you might find acceptance, and even encouragement, from the Brethren of Albertus.
+
+
+{ 1 - 5 }_Dangerous Secret_( Lore Of The Clans -- Page 161 )
+
+Prerequisites: Nosferatu
+
+You have come to know something you really wish you hadn't discovered. Worse yet, the people you have the on know that you know. It might be that you have discovered the Prince's haven, or that there are infernalists hiding in the diocese. Whatever it is, you are not sure whom you can tell, and if you do, you will only make the subjects of the secret more enthusiastic about getting rid of you. You may even be implicated in the secret and risk going down with them. The more potent the Flaw, the more powerful the people in question are, and the more they want it silenced.
+
+
+{ 1 - 5 }_Enemy_( Vampire: The Masquerade 20th Anniversary Edition -- Page 490 )
+
+You have an enemy, or perhaps a group of enemies, who seek to harm you. The power of the enemy depends upon how many points the player wishes to spend (five points indicate the wrath of a Methuselah or other potent supernatural foe).
+
+
+{ 2 }_Bound_( Vampire: The Masquerade 20th Anniversary Edition -- Page 490 )
+
+You are blood bound to another vampire. Your regnant may not necessarily treat you badly, but the fact remains that your will is not entirely your own. The knowledge gnaws at you, even as you find yourself lost in devotion to your vampiric master. Sabbat vampires cannot take this Flaw.
+
+
+{ 2 }_Catspaw_( Vampire: The Masquerade 20th Anniversary Edition -- Page 490 )
+
+You've done dirty work for someone high up in the city's hierarchy in the past -- the Sheriff, the Bishop, or even someone higher. However, instead of granting you favor, your deeds have made you an embarrassment or a liability. For the moment, your former employer's concern is to keep you quiet. In the long term, it's to get rid of you.
+
+
+{ 2 }_Cloistered_( Lore Of The Clans -- Page 219 )
+
+Prerequisites: Tremere
+
+You have spent almost all of your undead existence in the halls of the chantry, making Kindred society rather new and confusing for you. You suffer a -2 dice penalty to any social interactions with those outside the Tremere.
+
+
+{ 2 }_Escaped Target_( Vampire: The Masquerade 20th Anniversary Edition -- Page 491 )
+
+You had targeted a mortal for the Embrace, but someone else got there first. You cannot stand the humiliation of being cheated of your prize, and fly into a rage (+2 difficulty to avoid frenzy) whenever you see the one who got away. This hatred may lead you into other irrational behaviors, like Embracing enemies of the neonate, creating unauthorized childer, or even trying to kill your rival. Furthermore, your petty and irrational behavior is well-known and quite noticeable, and as a result you are at + 1 difficulty on all Charisma rolls until the situation is resolved.
+
+
+{ 2 }_Expiration Date_( Anarchs Unbound -- Page 102 )
+
+Prerequisite: Anarch
+
+Your personal motto is simple: I do what I want. This has, as might be expected, caused you trouble more than once. You are wanted in several domains for various minor crimes, such as exsanguinating the Seneschal's favorite ghoul. You haven't been blood-hunted just yet, but the writing is on the wall. You've just about run out of time and no one wants you to take them with you when everything turns sideways. One more mistake and you sign your Final Death warrant. All social-based rolls to acquire help are at +2 difficulty, except those involving Intimidation.
+
+
+{ 2 }_Failure_( Vampire: The Masquerade 20th Anniversary Edition -- Page 491 )
+
+You once held a title in the city, but failed catastrophically in your duties. Now you are branded incompetent, excluded from circles of power and responsibility, and generally ostracized by those on their way up. Your exclusion may make you a target for recruitment by the Sect's enemies (or so the whispers run, making you even more distrusted). Conversely, the consequences of your error might come back to haunt you.
+
+
+{ 2 }_Masquerade Breaker_( Vampire: The Masquerade 20th Anniversary Edition -- Page 491 )
+
+In your first nights as a vampire, you accidentally broke the Masquerade -- and were spotted doing so. Someone else covered for your mistake, but holds the favor over you. Now you exist in fear that your error will be revealed. In the meantime, your "savior" takes pitiless advantage of you. This Flaw can only be taken by vampires in Sects or Clans that respect the Masquerade.
+
+
+{ 2 }_Obvious Predator_( Lore Of The Clans -- Page 48 )
+
+Prerequisites: Brujah
+
+Your innate Brujah rage always percolates below the surface no matter how hard you try to project an image of calm. Mortals find you intrinsically menacing, and instinctively fear you for the violence you promise to unleash.
+
+System: The difficulty of all Social rolls made against mortals other than Intimidation rolls increases by 2.
+
+
+{ 2 }_Old Flame_( Vampire: The Masquerade 20th Anniversary Edition -- Page 491 )
+
+Someone you once cared deeply for is now with the enemy. He still attempts to play on your sympathies "for old times' sake" while working against you. Unless you succeed on a contested Manipulation + Expression roll against your former friend, you cannot act against him unless the situation becomes life-threatening.
+
+
+{ 2 }_Outcast_( Lore Of The Clans -- Page 26 )
+
+Prerequisites: Assamite
+
+Your have rejected the ethos of the caste into which you were Embraced. Perhaps you are one of the few viziers or sorcerers to support the Web of Knives or pursue the Path of Blood. Perhaps you are a warrior who has little stomach for combat, preferring instead to be a diplomat or a student of the occult. Perhaps you made some kind of public spectacle that revealed your disdain for your fellow caste members. Your sire now rejects you, as do the other members of your caste. The difficulty of all Social rolls against members of your caste is at +2.
+
+
+{ 2 }_Paper Trail_( Lore Of The Clans -- Page 142 )
+
+Prerequisites: Malkavian
+
+You've spent some time in state institutions like prisons or asylums, likely before your Embrace. Most people have some sort of information that relays date of birth and other bits of fact. This information is hard to eliminate, and may endanger the Masquerade. Enemies with the right influence may be able to track down the information and use it against you. It may lead to vulnerable targets or clue hunters to where your haven is located.
+
+
+{ 2 }_Rival Sires_( Vampire: The Masquerade 20th Anniversary Edition -- Page 491 )
+
+The flip side of Escaped Target, two vampires wanted to gift you with the Embrace. One succeeded, one failed -- and she's not happy about that failure. You, your actual sire, or both of you have become the target of the failed suitor's ire. Regardless, your persecutor is at +2 difficulty to refrain from frenzy in your presence. In addition, she may well be working actively to discredit or destroy you.
+
+
+{ 2 }_Uppity_( Vampire: The Masquerade 20th Anniversary Edition -- Page 492 )
+
+You are proud of your new status in the Sect -- so proud that you've shot your mouth off to other Kindred and made some enemies. Wiser vampires laugh at you and chalk your rudeness up to youth, but others find you arrogant and insulting. These enemies will take action to embarrass or harm you. Furthermore, you are at +2 difficulty on all Social rolls against any vampires you have alienated through your yammering -- and you may not know who they are. At Storyteller discretion, you may also be required to make a Willpower roll (difficulty 6) to keep your mouth shut any time the opportunity presents itself for you to brag about your pack, your Clan, or your status.
+
+
+{ 3 }_Broken Antitribu_( Lore Of The Clans -- Page 26 )
+
+Prerequisites: Assamite
+
+You are one of those most pitiful things -- an Assamite antitribu who still labors under the Tremere Curse. You have pledged yourself to the Sabbat, but you cannot perform diablerie and can only partake of Kindred vitae already transubstantiated through the Vaulderie. As a result, the difficulty of all Social rolls against other Sabbat members is at +2.
+
+
+{ 3 }_Disgrace To The Blood_( Vampire: The Masquerade 20th Anniversary Edition -- Page 492 )
+
+Your sire regards the fact that he Embraced you to be a titanic mistake, and has let everyone know it. You are mocked at gatherings, taunted by your peers, and actively despised by the one who should be giving you guidance. Any request or petition you make is likely to be looked down upon by friends of your sire, and your achievements are likely to be discounted.
+
+
+{ 3 }_Former Prince_( Vampire: The Masquerade 20th Anniversary Edition -- Page 492 )
+
+Once, you held near-absolute power in a city, but those nights are gone now. Perhaps you stepped down, perhaps you were deposed, or perhaps your city fell to the Sabbat; it matters little in your reduced state. What does matter is that the Prince in the city where you now dwell is aware of your prior employment, and has concerns that you might be trying to make a comeback. The machinery of the Camarilla in the city where you now make your home is subtly stacked against you, and if the Prince sees an opportunity to get rid of you he just might take it. This Flaw can only be taken by Camarilla vampires.
+
+
+{ 3 }_Hunted Like A Dog_( Vampire: The Masquerade 20th Anniversary Edition -- Page 492 )
+
+Another Sect or group of vampires has decided that you're a target for extermination, and pursues you relentlessly. On the bright side, the enemies of your enemy may well wish to help you out, potentially garnering you allies.
+
+
+{ 3 }_Narc_( Vampire: The Masquerade 20th Anniversary Edition -- Page 492 )
+
+You are known to be a snitch, an informer firmly planted in the pocket of the vampires in charge. Those on whom you might yet inform loathe you as a result, feeding you misinformation when they can in an attempt to discredit you. Given the opportunity, they might do you mischief. Regardless, your reputation as a weasel precedes you, putting you at +1 difficulty on all Social rolls against those who don't agree with your politics.
+
+
+{ 3 }_Sleeping With The Enemy_( Vampire: The Masquerade 20th Anniversary Edition -- Page 492 )
+
+You have some sort of intimate connection with a member of an opposing Sect or inimical Clan. You may have a lover, a childe, a friend, or a contact working the other side of the fence, but regardless of politics you retain a friendly (or more than friendly) relationship with your putative foe. Your close ties to someone on the other side would be regarded as treason by your superiors within the Sect, and if you are discovered, the penalty will surely be death.
+
+
+{ 3 }_Insubordinate_( Lore Of The Clans -- Page 123 )
+
+Prerequisites: Lasombra
+
+You like to be in charge so much you have a hard time following anyone else's orders. When given a plan or told to do something, you tend to do the opposite on principle. Whenever you are ordered to do something, you must make a Willpower roll with a difficulty depending on the importance of the superior and the danger of the task (difficulty 7 is typical for someone directly above the vampire assigning them a moderately dangerous task). If you fail, you will do anything except what you've been told to do.
+
+
+{ 3 }_Lost Svadharma_( Lore Of The Clans -- Page xxx )
+
+Prerequisites: Ravnos
+
+You once knew your svadharma, but when the time came to fulfill it, you failed. Now that destiny has passed you by, and there may never be another chance to make it right. Other Ravnos know the tale, and hold your failure against you. You are scorned, and your confidence has been thrown into doubt. Your total Willpower score is permanently reduced by one and you may not spend Willpower when performing actions where other Ravnos are directly involved.
+
+
+{ 3 }_Private Life_( Lore Of The Clans -- Page xxx )
+
+Prerequisites: Toreador
+
+You have a completely separate life that no other Kindred know about. It may be your mortal family that you have turned into ghouls, or a YouTube channel that you use to talk in metaphor about your frustrations with Kindred society. If discovered, this could risk other vampires accusing you of breaching the Masquerade (if Camarilla), consorting with humanity instead of being a superior vampire (if Sabbat), or just overall paranoia and suspicion on why you're keeping such deep secrets.
+
+
+{ 3 }_Unproven_( Lore Of The Clans -- Page 123 )
+
+Prerequisites: Lasombra
+
+Somehow, you have failed to prove yourself worthy of the name Lasombra. Maybe your sire did not test you well enough, or an opportunity to prove yourself has not come up. Whatever the reason, you are not truly considered part of the Clan. All social dealings with other Lasombra suffer a -3 dice penalty. You may also not be chosen to sit in judgment in the Courts of Blood.
+
+
+{ 3 OR 5 }_Credulous_( Hunters Hunted II -- Page 133 )
+
+Prerequisite: Government Agent
+
+You believe in monsters and conspiracies, and your fellow agents know it. This credulous reputation makes you a liability -- no matter how much of the truth you actually know. With the three-point version of this Flaw you're still a field agent, but your fellow agents either ignore you or openly mock you. Subtract one die from all Empathy, Investigation, or Leadership rolls when dealing with members of the intelligence community. If a supernatural creature is looking for a scapegoat, your name is top of the list. With the five-point version of this Flaw, you're on your way out. You've got a make-work assignment -- maybe a feasibility study for building a wall along the Canadian border, or listening for intelligence coming out of the New Zealand field office. You won't get any backup, and if you continue to make trouble (by, say, investigating supernatural creatures), people high up in your agency's food chain will arrange an accident to shut you up permanently.
+
+
+{ 4 }_Clan Enmity_( Vampire: The Masquerade 20th Anniversary Edition -- Page 492 )
+
+One Clan in particular wants you dead. You have offended the entire Clan, from elders to neonates, and as a result every member of that bloodline wants your head on a plate. The effects of the Flaw may manifest as anything from very public snubs and insults to actual attempts on your unlife. You are also at +2 difficulty on all Social rolls relating to members of the Clan in question.
+
+
+{ 4 }_Hunted_( Vampire: The Masquerade 20th Anniversary Edition -- Page 491 )
+
+You are pursued by a fanatical witch-hunter who believes (perhaps correctly) that you are a danger to humanity. All those with whom you associate, be they mortal or Kindred, may be hunted as well.
+
+
+{ 4 }_Loathsome Regnant_( Vampire: The Masquerade 20th Anniversary Edition -- Page 492 )
+
+Not only are you blood bound, but you are also in thrall to a vampire who mistreats you hideously. Perhaps you are publicly abused or humiliated; perhaps your master forces you to commit unspeakable acts for him. In any case, existence under the bond is a never-ending nightmare, with your regnant serving to conduct the symphony of malice. Sabbat vampires cannot take this Flaw.
+
+
+{ 4 }_Overextended_( Vampire: The Masquerade 20th Anniversary Edition -- Page 492 )
+
+You've got your fingers in too many pies, and people are starting to notice. You have too many ghouls, too many retainers, or too much influence, which means that a lot of people have a vested interest in trimming back your operations. These enemies take every opportunity to reduce your power and influence, and if that means lying, cheating, or killing, so be it. Furthermore, your enemies block every attempt you make to move into new areas of control. You're boxed in, and the box is getting smaller.
+
+
+{ 4 }_Probationary Sect Member_( Vampire: The Masquerade 20th Anniversary Edition -- Page 493 )
+
+You are a defector. You turned traitor to the Camarilla, Sabbat, or other Sect, and you still have much to prove before you are accepted by the Kindred you have defected to. Other vampires treat you with distrust and even hostility, and your reputation might even sully those whom you regularly associate with.
+
+
+{ 3 }_Enemy Brood_( Lore Of The Clans -- Page 163 )
+
+Prerequisites: Nosferatu
+
+You have made an enemy of another group of Nosferatu. Unlike your usual enemies, they know the places you like to go and aren't too squeamish about following you there. They keep you on the move, hunting you from sanctuary to sanctuary. The sewers themselves might not even be safe for you anymore. If you move to a new city, they use their contacts to pass on the word to their allies to keep hounding you. Sooner or later, you are going to have to take them down to rid yourself of them.
+
+
+{ 4 }_Trophy Arrogance_( Dread Names: Red List -- Page 100 )
+
+Prerequisites: Alastor; special
+
+The character has begun to wear out his welcome when it comes to making demands on the Trophy Clan. While the Clan has promised him any number of rewards, both monetary and supernatural, the new Alastor has been abusing the Trophy's Clan hospitality and is taking advantage of them. Making demands of local Kindred resources, throwing the fallen Anathema back in the Clan's face, or being overly arrogant about the fact that the Clan owes the character are just some of the ways an Alastor can demonstrate this Flaw. Note: This Flaw is only available to Alastor characters who have killed an Anathema. It is not available to those named Alastors by Justicars and Inner Circle.
+
+
+{ 4 OR 6 }_Blood Hunted_( Vampire: The Masquerade 20th Anniversary Edition -- Page 493 )
+
+You have been made the target of a blood hunt, and for you to return to your home city is death. For four points, this Flaw means that only your home city is off-limits to you. For six, it means that the entire Camarilla is howling for your vitae. This Flaw can only be taken by Camarilla vampires.
+
+
+{ 5 }_Black Sheep_( Anarchs Unbound -- Page 102 )
+
+Prerequisite: Anarch; cannot have Hunted Like a Dog or Sire's Resentment
+
+You belong to a prestigious lineage that is considered to be paragon of another sect, or at least it did before you joined the Anarch Movement. You have embarrassed your sire, grandsire, and perhaps even farther back up the line; now the time has come to pay. Your erstwhile broodmates want to bring you back into the fold, if only to clean the stain from your reputation, and are unwilling to recognize your independence. Your sire and grandsire spare no effort to make things uncomfortable for you and any Anarchs who shelter you. This flaw combines the effects of Sire's Resentment and Hunted Like a Dog, so those flaws may not be taken in conjunction with Black Sheep.In addition, many members of the Anarch Movement actively distrust you solely based on your lineage, believing that you are a double-agent. All social rolls involving your fellow Anarchs incur a +2 difficulty.
+
+
+{ 5 }_Laughingstock_( Vampire: The Masquerade 20th Anniversary Edition -- Page 493 )
+
+Somehow you've drawn the scorn of the local Harpies, who make you their favorite target. You are at a +2 difficulty on all Social rolls in Elysium and a +1 anywhere else in the city. In addition, you are at +2 difficulty to use Intimidation or any Dominate powers on anyone who has heard the stories mocking you. This Flaw can only be taken by Camarilla vampires.
+
+
+{ 7 }_Red List_( Vampire: The Masquerade 20th Anniversary Edition -- Page 493 )
+
+You are either being considered for or are already on the dreaded Red List, the registry of those vampires the Camarilla most wants extinguished. Any Camarilla vampire will either attack you on sight or, more likely, call in for a great deal of help.

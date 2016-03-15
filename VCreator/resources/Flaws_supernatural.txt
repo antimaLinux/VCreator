@@ -1,0 +1,283 @@
+{ 1 }_Cast No Reflection_( Vampire: The Masquerade 20th Anniversary Edition -- Page 494 )
+
+You actually cast no reflection, just like the vampires legend. This can have a detrimental effect when trying to pass as a human. Vampires of Clan Lasombra automatically have this Flaw (and you may be mistaken for one of them if you possess this).
+
+
+{ 1 }_Cold Breeze_( Vampire: The Masquerade 20th Anniversary Edition -- Page 494 )
+
+A chill wind follows you everywhere you go. While it may make for dramatic entrances, this effect also discomfits mortals (+1 difficulty on all appropriate Social rolls) and marks you as obviously supernatural. Cold winds sweeping through executive offices or crowded nightclubs can raise all sorts of questions.
+
+
+{ 1 }_Repulsed By Garlic_( Vampire: The Masquerade 20th Anniversary Edition -- Page 494 )
+
+You cannot abide garlic, and the smallest whiff of its scent will drive you from a room unless you make a successful Willpower roll (difficulty based on the strength of the odor).
+
+
+{ 1 }_Touch Of Frost_( Vampire: The Masquerade 20th Anniversary Edition -- Page 494 )
+
+Plants wither as you approach and die at your touch. Your touch leeches heat from living beings, as though you were made of ice.
+
+
+{ 1 - 5 }_Arcane Curse_( Lore Of The Clans -- Page 219 )
+
+Prerequisites: Tremere
+
+Because of either your studies or someone else's, you suffer from a magical curse. It might be an aversion or allergy, or even a strange magical effect. The level of the flaw depends on how debilitating the curse is. Curing the affliction may be impossible, or require some sort of quest or advanced research.Flaw Value	Example Curse
+1 point	A minor oddity, such as an animal feature or strange eye color
+2 points	A noticeable problem, such as your magic having a strange taint or pattern that makes it instantly recognizable, or that plants wither in your presence.
+3 points	Something problematic, such as people sickening in your presence or animals attacking you.
+4 points	Concerning handicap, such as developing another Clan's weakness.
+5 points	Potentially deadly, such as moonlight being as dangerous to you as sunlight.
+
+
+
+{ 1 - 5 }_Cursed_( Vampire: The Masquerade 20th Anniversary Edition -- Page 494 )
+
+You are the recipient of a supernatural curse. The strength and pervasiveness of the curse depend upon how many points you wish to incur. For example: If you pass on a secret you were entrusted with, your betrayal will come back to harm you in some way (1 pt.); You stutter uncontrollably when you try to describe what you have seen or heard (2 pts.); Tools break or malfunction when you try to use them (3 pts.); You are doomed to make enemies of those whom you most love or admire (4 pts.); Every one of your accomplishments or triumphs will eventually become soiled or fail in some way (5 pts.).
+
+
+{ 1 Or 3 }_Unsettling Effect_( Hunters Hunted II -- Page 45 )
+
+Prerequisite: Hunter
+
+Numina powers are often unnoticeable. However, something about your character's Numina causes others to recognize that there's something weird going on. With the one-point flaw, she has a single intangible power (such as Telepathy or Psychometry) that generates a noticeable, perceptible effect. Perhaps subjects can feel the character paging through their minds, or maybe everyone around the psychic feels a swell of eerie emotions when she touches a resonant object. With the three-point flaw, all of your character's intangible powers (including ones that she learns later) have some sort of unsettling effect, likely united by a shared "signature" or style of effect.
+
+
+{ 1, 2, OR 6 }_Psychic Feedback_( Hunters Hunted II -- Page 44 )
+
+Prerequisite: Hunter
+
+Your character is gifted with potent Psychic Numina, but the use of these powers tires her. Your character sometimes even experiences minor cerebral hemorrhages from the strain of using her power. With the one-point Flaw, your hunter experiences headaches or dizziness from each use of power. During stressful or taxing situations, the Storyteller may require a Stamina + Awareness roll (difficulty 7). If this rolls fails, the character experiences a brief state of pain or disorientation. All actions performed during her next turn have their difficulties increased by 2. With the two-point Flaw, your character experiences minor pain from the use of her power. After she activates a power, you must roll Intelligence + Awareness (difficulty 6) against the number of successes obtained while rolling to activate the power. If you gain fewer successes on the Intelligence + Awareness roll than on the power's activation roll, the difference is treated as levels of bashing damage. With the six-point Flaw, your character suffers the same effect as per the two-point flaw, but the damage is lethal, though the Intelligence + Awareness roll is still allowed.
+
+
+{ 2 }_Ancestral Soil Dependence_( Lore Of The Clans -- Page 239 )
+
+Prerequisites: Tzimisce; cannot be/have been Embraced in Eastern Europe
+
+Your flesh yearns for a homeland you have never seen. The voice of Kupala punishes your day sleep if this yearning is not met. The soil from a place important to you as a mortal will not suffice; in addition, you require two handfuls of the tainted Eastern European soil of the ancestral Tzimisce homeland. This Trait mostly commonly manifests in the childer of koldun and the branch of the Clan thought to be descended from Yorak. It can even manifest in childer sired generations after their ancestors relocated. Characters Embraced in Eastern Europe can't take this Flaw (they're already dependent on the local soil).
+
+
+{ 2 }_Beacon Of The Unholy_( Vampire: The Masquerade 20th Anniversary Edition -- Page 494 )
+
+You radiate palpable evil. Clergy and devout mortals know instinctively that there is something horribly wrong with you, and react accordingly.
+
+
+{ 2 }_Clan Weakness_( Lore Of The Clans -- Page 270 )
+
+Prerequisites: Caitiff
+
+Despite your failure to adopt your original Clan's other abilities, you did inherit their weakness. While this can be deadly to the unprepared vampire, a canny Caitiff might turn this to their advantage to better blend among the parent Clan. Some Nosferatu, for example, would likely never notice, and might even stand up for the Caitiff even amidst accusations from outsiders.
+
+
+{ 2 }_Deathsight_( Vampire: The Masquerade 20th Anniversary Edition -- Page 494 )
+
+Everything appears rotted and decayed to you. The world appears to you as a corpse; mortals look diseased or skeletal, buildings seem decrepit, and your fellow Kindred seem to be walking, moldering cadavers. You are at -2 difficulty to resist all rolls based on Appearance, but by the same token you are at +2 difficulty on all Perception-based rolls. In addition, you find social interaction difficult and are at +1 difficulty on all Social-based rolls.
+
+
+{ 2 }_Eerie Presence_( Vampire: The Masquerade 20th Anniversary Edition -- Page 495 )
+
+Mortals have an unconscious awareness of your undead nature, which makes then anxious and ill at ease in your presence. Because of this, difficulties of all rolls relating to social interaction with mortals are increased by two.
+
+
+{ 2 }_Flawed Reality_( Lore Of The Clans -- Page 182 )
+
+Prerequisites: Ravnos
+
+Your illusions always contain a notable flaw, and as such, are easier to disbelieve. The difficulties of all rolls to disbelieve your illusions are reduced by two.
+
+
+{ 2 }_Lord Of The Flies_( Vampire: The Masquerade 20th Anniversary Edition -- Page 495 )
+
+Buzzing harbingers of decay swirl around you everywhere. Their constant presence makes it difficult for you to interact socially (+1 difficulty when appropriate) and nearly impossible to sneak up on someone or hide effectively. The buzzing of the flies inevitably gives you away -- all Stealth rolls are at +2 difficulty.
+
+
+{ 2 }_Member Of The Pack_( Lore Of The Clans -- Page 87 )
+
+Prerequisites: Gangrel
+
+You can only summon, speak to, and command a specific type of animal -- ravens, rats, and so forth -- with Animalism. Your Storyteller is the best adjudicator of what types of animal are appropriate for this Flaw, but the choice should be fairly limiting. Other animals do not respond to your uses of Animalism at all.
+
+
+{ 2 }_Oathbreaker_( Lore Of The Clans -- Page 182 )
+
+Prerequisites: Ravnos
+
+Making an oath ties one person's svadharma to another, linking the two spirits until the oath can be fulfilled. With this in mind, a Ravnos never breaks her word once given in good faith, and so long as it was done with proper ceremony. If the Ravnos spits into her palm and shakes on her word, then the oath cannot be broken without negatively impacting the vampire's svadharma (or so Ravnos superstition dictates).The oathbreaker will lose her way, falling into vice and worthlessness, until the broken oath can be redeemed. Anyone who looks at your aura can see a sickly red slash indicating the broken oath. You may not spend Willpower to ignore your Ravnos vice, and you do not gain Willpower from fulfilling your Nature.
+
+
+{ 2 }_Paradise Lost_( Hunters Hunted II -- Page 125 )
+
+Prerequisite: Society Of Leopold Member
+
+You once had the True Faith that could light the night. It is now extinguished. This is not the simple loss of an advantage, but a gaping wound of the soul. You know what it was like to be seen in the light of the divine, but now stumble outside the sight of God and drown in the corpse-cold murk of doubts, an ever-flowing river with no end in sight. Whenever you are confronted with this loss (holding a holy symbol, asked to perform a miracle, entering a church, etc.), make a Willpower roll (difficulty 7) or lose one die on all actions for the scene, as sorrow seizes you. A botched Willpower roll consumes a Willpower point and opens you to despair. Indulging a vice (alcohol, drugs, pornography, etc.) can replenish Willpower points lost in this way. This Flaw can be earned mid-chronicle with a loss of True Faith, or it can be taken at character creation as part of a tragic backstory, possibly initiating a redemption tale of faith regained.
+
+
+{ 2 }_Uncommon Vitae Preference_( Lore Of The Clans -- Page 261 )
+
+Prerequisites: Ventrue
+
+Your preferred source for vitae is rarified even by the standards of your Clan, such as "only Korean War vets," "only Federal Court Judges," or "only virgins over the age of 40." The difficulty of all hunting rolls for your character is increased by +2, to a maximum of 9.
+
+
+{ 2 Or 4 }_Stigmata_( Lore Of The Clans -- Page 142 )
+
+Prerequisites: Malkavian
+
+Oracles are often marked as messengers of the gods. Your markings come in the forms of phantom wounds that seep blood. The bleeding is slight but incessant, costing you an extra blood point every day just before you wake at dusk.The 2-point version of this Flaw means wounds that can be easily hidden from prying eyes, such as on the hands or the side. You gain a +1 difficulty to all Social rolls when dealing with someone aware of your condition.The 4-point version can't be easily hidden, like bleeding eyes. The Social penalty increases to +2, and one of your Attributes also gains a +1 difficulty to all rolls because of the constant seeping blood.
+
+
+{ 3 }_Bestial_( Lore Of The Clans -- Page 163 )
+
+Prerequisites: Nosferatu
+
+You are closer to animals than humans, and it shows. In addition to the Nosferatu Clan weakness, you have an additional weakness: whenever you frenzy, you gain an animal feature, similar to the Gangrel Clan weakness.With Storyteller permission, permanently acquired animal features may be justification to acquire certain Merits after character creation, such as Lizard Limbs or Monstrous Maw. If so, the Storyteller can simply award them, or require an experience point expenditure (such as two times the Merit point value). Similar Flaws can also be taken, but cannot grant additional freebie or experience points.
+
+
+{ 3 }_Betrayer's Mark_( Lore Of The Clans -- Page 219 )
+
+Prerequisites: Tremere
+
+Even though you are loyal to House and Clan Tremere, for some reason you are branded with the mark of the antitribu. It might be that you have returned to the Clan after leaving the Sabbat or that you unwittingly or as part of an undercover operation took part in the Vaulderie. Whatever the reason, the mark makes other Tremere wary of you. You will have to go that extra mile to prove yourself, and few among the Clan will trust you with positions of power and responsibility.
+
+
+{ 3 }_Bound To The Clan_( Lore Of The Clans -- Page 219 )
+
+Prerequisites: Tremere
+
+You have done more than just drink from the blood of the elders. Whether as punishment or by choice, you have become fully blood bound to Clan Tremere. You cannot act against the Clan, and find everything you do works in the service of the Tremere. You might not like it, but you can't help yourself doing it. Of course, now you are bound to the Clan, you cannot be bound to another individual. Many older Tremere have this Flaw, as it has been common in the past to completely blood bind new Tremere.
+
+
+{ 3 }_Can't Cross Running Water_( Vampire: The Masquerade 20th Anniversary Edition -- Page 495 )
+
+You believe in the old folklore, and cannot cross running water unless you are at least 50 feet (15 meters) above it. Running water is considered to be any body of water at least two feet (half a meter) wide in any direction and not completely stagnant.
+
+
+{ 3 }_Faceless_( Lore Of The Clans -- Page 239 )
+
+Prerequisites: Tzimisce; Vicissitude 1+; cannot have the Mistaken Identity Flaw
+
+You have escaped the tyranny of physical self-identity. You call no face your own. Every sunset, you awaken to a new visage, an amalgam pieced together from memory and dream. Your features, ethnicity, even gender become fluid things while you sleep. While this Flaw exemplifies the extreme ideals of Azi Dahaka (and should impress most Metamorphosists), it can cause complications for vampire concerned with maintaining recognition, reputation, or a mortal alias. Every sundown, the player rolls one die and is subject to the results on the following table:Roll	Result
+1	No change.
+2 - 3	Minor changes, somewhat recognizable.
+4 - 8	Unrecognizable by even those closest to the character (such as her packmates or sire). Ethnicity and gender may change.
+9 - 10	Total metamorphosis. Tentacles, bone spikes, or other inhuman features may appear.
+This Flaw affects some Backgrounds.Without a stable face, Alternate Identity and Fame cannot be maintained. Backgrounds like Allies, Contacts, Influence, and Status might be complicated by the lack of a solid identity as well. The vampire can use Malleable Visage and a mirror to reconstruct her true face from memory, but this requires at least three successes at difficulty 8 to make her recognizable, and five successes for a flawless copy.The Mistaken Identity Flaw cannot be taken. Other Merits/Flaws may be affected, at the Storyteller's discretion. Characters must have at least one dot of Vicissitude to take this Flaw.
+
+
+{ 3 }_Haunted_( Vampire: The Masquerade 20th Anniversary Edition -- Page 495 )
+
+You are haunted by an angry and tormented spirit, most likely one of your first victims. This spirit actively attempts to hinder you, especially when feeding, and does its utmost to vent its anguish upon you and anyone in your presence. The Storyteller determines the exact nature of the spirit, its powers, and whether or not it can eventually be laid to rest.
+
+
+{ 3 }_Infectious_( Lore Of The Clans -- Page 142 )
+
+Prerequisites: Malkavian
+
+Madness flows within your blood, but your bite carries a taint as well. Mortals take a temporary derangement for every three points of blood you take from them. The derangements stay until the mortal restores the lost blood.
+
+
+{ 3 }_Multiple Curses_( Lore Of The Clans -- Page 26 )
+
+Prerequisites: Assamite
+
+In addition to the normal curse imposed upon you by your caste or sect, you suffer one additional one associated with the Assamite Clan. Most likely, you are a rare vizier or sorcerer within the Sabbat who suffers the Baali Curse in addition to your normal caste-imposed curse, but at the Storyteller's discretion, other combinations may be possible.
+
+
+{ 3 }_Repelled By Crosses_( Vampire: The Masquerade 20th Anniversary Edition -- Page 495 )
+
+You are repelled by the sight of ordinary crosses, believing them to be symbols of holy might. When confronted by a cross, you must make a Willpower roll (difficulty 9) or flee from the symbol for the duration of the scene. If you botch the roll, not only must you attempt to flee, but the touch of the cross can cause aggravated damage (one health level of damage per turn that the cross touches your skin). This damage cannot be soaked, even if the vampire possesses Fortitude.
+
+
+{ 3 }_Revenant Weakness_( Lore Of The Clans -- Page 239 )
+
+Prerequisites: Tzimisce
+
+You were once part of a revenant family. Following the Embrace, you suffered both your Clan's weakness and your revenant family's limitation. The Storyteller might let you manifest a weakness from a lost or destroyed revenant line. This could add mystery to your background and allow for a bit of genealogical detective work, certainly making you a curiosity to the Romanian Legacy Foundation.
+
+
+{ 3 OR 5 }_Psi Focus_( Hunters Hunted II -- Page 45 )
+
+Prerequisite: Hunter
+
+Your character finds it impossible to use his Psychic Numina without the aid of a focus; he requires some aid or trigger to properly direct his powers. For three points, the character must gesture or speak a phrase or incantation for the power to work. For five points, the power requires a physical focus to function (such as crystals, a hypnotist's pocket watch, or a "lucky coin").
+
+
+{ 4 }_Grip Of The Damned_( Vampire: The Masquerade 20th Anniversary Edition -- Page 495 )
+
+There is no ecstasy in your Embrace -- only terror and pain. Mortals upon whom you feed struggle and shriek while you attempt to feed, requiring you to grapple with them for as long as you wish to take their blood. For vampires with high Humanity, this experience may require a Humanity roll, at the discretion of the Storyteller. Giovanni cannot take this Flaw.
+
+
+{ 4 }_Putrescent_( Lore Of The Clans -- Page 163 )
+
+Prerequisites: Nosferatu
+
+The supernatural process that usually keeps a vampire's form from rotting after death has failed to work on you. Your body has become putrescent and fragile as it gradually decays. All soak rolls you make have their dice pool reduced by 1. You may even lose body parts if you suffer a solid enough blow. Should this happen, make a Stamina roll (difficulty 6) and lose a part of your body (Storyteller's choice) if you fail. Should you botch, you also receive a level of aggravated damage. These missing parts may regrow, but your body continues to rot.
+
+
+{ 5 }_Aura Of The Typhon_( Lore Of The Clans -- Page 67 )
+
+Prerequisites: Follower of Set
+
+Something slithers beneath your skin, coiled in your very essence -- something that causes the Lupines to stalk you for some dread purpose you do not understand. Their howls follow in your wake. You catch glimpses of blurred motion and the gleam of eyes and teeth in the dark. They get closer every night. What do they want from you?
+
+
+{ 5 }_Consumption_( Lore Of The Clans -- Page 239 )
+
+Prerequisites: Tzimisce
+
+There is something hungry inside of you. But what is it? Portions of the Antediluvian? Your Vicissitude gone horribly wrong? Whatever it is, it is active, acting like a cancer, devouring you from the inside out. Your very blood is wrought with corrosive, flesh-eating bacteria. At the beginning of each evening, you suffer one health level of lethal damage that cannot be soaked nor healed with blood. The only way to counteract the effect is by ingesting one-tenth of your body-weight in flesh to supplement your depleted carcass. Whether you kill and devour the skin from humans or raid the biohazard containers of liposuction clinics for siphoned fat, you need your ration of human flesh in order to survive. If you try and ingest this macabre meal before damage is done, you'll simply vomit it out like any other food -- this does not impart the benefits of the Eat Food Merit.
+
+
+{ 5 }_Contagious_( Lore Of The Clans -- Page 163 )
+
+Prerequisites: Nosferatu
+
+Your body is still dying on the inside, your rotting entrails providing nutrition for noxious bacteria, spores, and even fungi. Mortals that touch you or on whom you feed must make a Stamina roll (difficulty 9) not to fall ill. The illness puts them in bed with fever and sickness, and each week they may attempt the Stamina roll again. The Storyteller might reduce the difficulty if the target is receiving proper medical attention. On a success they recover, but if they fail, they remain feverish. At the end of each month the victim remains ill, they lose a point of Stamina; if they are reduced to zero Stamina they die. If the Nosferatu knows of their contagion and infects someone maliciously, the Storyteller might call for a Humanity (or appropriate Path of Enlightenment) degeneration roll if they die. Supernatural creatures generally have the ability to heal or cure such sickness in themselves, and vampires are immune to these germs of the dead.
+
+
+{ 5 }_Dark Fate_( Vampire: The Masquerade 20th Anniversary Edition -- Page 495 )
+
+You are doomed to experience Final Death or, worse, suffer eternal agony. No matter what you do, you cannot avoid this terrible fate. At some point during the chronicle, your Dark Fate will come upon you. Even more ghastly is the fact that you occasionally have visions of this fate, and the malaise these images inspire requires an expenditure of a temporary Willpower point to avoid, or else you lose a die from all of your actions for the remainder of the night. It is up to the Storyteller to determine the exact nature of this fate, and when it will occur. This is a difficult Flaw to roleplay; ironically, though it may seem as though it removes all free will, the knowledge of one's death can be quite liberating.
+
+
+{ 5 }_Incoherent_( Lore Of The Clans -- Page 163 )
+
+Prerequisites: Nosferatu
+
+Human speech is impossible for you. It might be that your mouth is too misshapen after the Embrace, or that years of living in the sewers have made you forget how to communicate. While you can understand what is being said to you, you cannot respond. Telepathy works on you as normal, and you have no problem communicating with animals, but human speech is barred to you.
+
+
+{ 5 }_Light-Sensitive_( Vampire: The Masquerade 20th Anniversary Edition -- Page 495 )
+
+You are even more sensitive to sunlight than other vampires are. Sunlight causes double normal damage, and the light of the moon can cause lethal damage in a manner similar to the sun, though it must shine directly upon you. Even bright lights hurt your eyes, requiring the use of sunglasses. Followers of Set and related bloodlines cannot take this Flaw, as they already have a worse version of it.
+
+
+{ 5 }_Mage Blood_( Lore Of The Clans -- Page 219 )
+
+Prerequisites: Tremere
+
+Your blood is so tied to magic that you find you are unable to use any Discipline apart from Thaumaturgy (and for Kindred who are not Tremere, it is still paid for at out-of-Clan rates). While no path or ritual is barred to you, you may not gain any dots in any other Discipline.
+
+
+{ 5 }_Thaumaturgically Inept_( Lore Of The Clans -- Page 219 )
+
+Prerequisites: Tremere
+
+Something about you refuses to respond to Thaumaturgy. Magic just doesn't work for you. You cannot take any ability in the Thaumaturgy Discipline or any of its paths or rituals. For a Tremere this is doubly difficult, as skill in Thaumaturgy is often the key to position within the Clan. While some willingly choose to ignore their thaumaturgical studies and serve in other ways, ineptitude is never excused. Only Tremere can take this Flaw.
+
+
+{ 6 }_Shadow Walker_( Lore Of The Clans -- Page 107 )
+
+Prerequisites: Giovanni
+
+The Giovanni Clan is by its nature inexorably tied to the realm beyond the sudario. Giovanni suffering from this Flaw are so tied to the Shadowlands that even in the lands of the living they must interact with the world of the dead on a nightly basis. To shadow walkers, objects in the Underworld are as real as anything found in the physical world. Such vampires find that the ghosts of walls may impeded their flight, ghostly objects may strike them, and wraiths' powers work as if the Kindred were on the far side of the Shroud. This Flaw is similar to the Ash Path power Dead Hand, except that Shadow Walker is always on and it in no way allows the character possessing it to perceive beyond the Shroud.The Storyteller may determine that certain Shadowlands topography interferes with you. Unless you have some ability to do so, you can't see into the Shadowlands, so you have to be careful in feeling your way about -- essentially, a blind man subject to the Underworld landscape. At the Storyteller's discretion, immaterial walls or environmental effects may restrict you.
+
+
+{ 7 }_Methuselah's Thirst_( Dread Names: Red List -- Page 74 )
+
+Whether from advanced age, your addiction to Diablerie, or the degradation of your Humanity, you are no longer capable of drinking mortal blood to sustain yourself and must feed upon the vitae of other vampires to survive. You may attempt to drink the blood of mortals, but it will not nourish you. If you do not feed on other vampires -- you will go into torpor.
+
+
+{ 7 }_The Scourge_( Dread Names: Red List -- Page 31 )
+
+The Scourge is a vampire-specific plague that infects the Blood. This disease is a mutated strain of leprosy crossed with the bubonic plague which directly attacks the vampire's vitae. Once infected, the victim must spend more blood each time they expend vitae. The cost for any vitae expenditure increases by one for each night the victim suffers from The Scourge. In some cases, the victim also suffers from a disfiguring malady that impacts their appearance but does not threaten their life.While The Scourge is curable on a case-by-case basis, the disease itself cannot be exterminated. In extremely rare cases, an afflicted vampire becomes a carrier of the disease and immune to its effects. The carrier then spreads The Scourge to other vampires. Currently, there is only one known carrier of the disease.

@@ -1,0 +1,239 @@
+{ 1 }_Hard Of Hearing_( Vampire: The Masquerade 20th Anniversary Edition -- Page 480 )
+
+Your hearing is defective. The difficulties of any rolls involving the use of hearing are increased by two.
+
+
+{ 1 }_Short_( Vampire: The Masquerade 20th Anniversary Edition -- Page 481 )
+
+You are well below average height -- four and a half feet (1.5 meters) tall or less. You have difficulty reaching or manipulating objects designed for normal adult size, and your running speed is one-half that of an average human.
+
+
+{ 1 }_Smell Of The Grave_( Vampire: The Masquerade 20th Anniversary Edition -- Page 481 )
+
+You exude an odor of dampness and newly turned earth, which no amount of scents or perfumes will cover. Mortals in your immediate presence become uncomfortable, so the difficulties of all Social rolls to affect mortals increase by one.
+
+
+{ 1 }_Stench_( Lore Of The Clans -- Page 161 )
+
+Prerequisites: Nosferatu
+
+Most Nosferatu pick up a certain odor, but you stink so bad even your Clan-mates find you hard to be close to. Your presence is preceded by your stench, removing two die from all Stealth rolls.
+
+
+{ 1 }_Tic / Twitch_( Vampire: The Masquerade 20th Anniversary Edition -- Page 481 )
+
+You have some sort of repetitive motion that you make in times of stress, and it's a dead giveaway as to your identity. Examples include a nervous cough, constantly wringing your hands, cracking your knuckles, and so on. It costs one Willpower to refrain from engaging in your tic.
+
+
+{ 1 }_Unblinking_( Lore Of The Clans -- Page 239 )
+
+Prerequisites: Tzimisce
+
+Your eyes do not close. Ever. Perhaps you have left your humanity too far behind to upkeep such habits, or perhaps you fleshcrafted some form of transparent eye-scale or nictitating membrane. Your quirk probably makes astute observers uncomfortable, adding +1 to the difficulty of friendly social interactions with humans, Kindred on Humanity, and others with mortal sensibilities.
+
+
+{ 1 - 3 }_Scales_( Lore Of The Clans -- Page 67 )
+
+Prerequisites: Follower of Set
+
+Set blessed you upon your Embrace, and you bear his mark. A portion of your skin is covered in scales. As a one-point Flaw, a small, easily hidden area of skin is covered. As a two-point Flaw, a whole limb is covered, while having a scaled, lipless face is a three-point Flaw. Kine are frightened and disturbed by the obviously unnatural scales, and Kindred have their own prejudices against the Setites. All social rolls receive a +2 difficulty when the scales are visible. This penalty does not apply to social interactions with other Setites.
+
+
+{ 1 - 5 }_Inbred_( Lore Of The Clans -- Page 107 )
+
+Prerequisites: Giovanni
+
+Inbreeding, a common occurrence among the incestuous Giovanni Clan, can take many forms. The Inbred Flaw covers all manner of physical, mental, and emotional defects. A one-point Inbreeding is something simple and unobtrusive, such as eyes too close together or an underbite (+1 difficulty on Appearance rolls). A three-point Inbreeding is more severe: a congenital health condition (for mortals) or a crippling physical deformity (+2 difficulty on appropriate Strength, Dexterity, or Stamina rolls). Five-point Inbreedings are grossly disabling or emotionally crippling -- everything from uselessly atrophied legs to a permanent Derangement -- decided on mutually by the player and Storyteller. Inbred conditions may or may not be immediately discernible, though their point cost should be relative to their magnitude, as decided by the Storyteller.
+
+
+{ 1 OR 3 }_Bad Sight_( Vampire: The Masquerade 20th Anniversary Edition -- Page 481 )
+
+Your sight is defective. The difficulties of any die rolls involving the use of your eyesight are increased by two. As a one-point Flaw, this condition can be corrected with glasses or contacts; as a three-point Flaw, the condition is too severe to be corrected.
+
+
+{ 2 }_Anosmia_( Lore Of The Clans -- Page 162 )
+
+Prerequisites: Nosferatu
+
+Your life in the sewer has removed your sense of smell and taste. This means you are unperturbed by even the worst stench or most disgusting flavor. However, it also means you cannot ever succeed at any Perception rolls that rely of taste or smell. It also does not make you immune in any way to gas attacks or poisons; you just won't be able to tell they are there.
+
+
+{ 2 }_Fourteenth Generation_( Vampire: The Masquerade 20th Anniversary Edition -- Page 481 )
+
+You were created five or fewer years ago by a member of the Thirteenth Generation. Though you have 10 blood points in your body, only eight of them may be used to heal wounds, power Disciplines, raise Attributes, etc. You can still use the final two blood points for other purposes, though. The blood point costs of nightly rising, creating and sustaining ghouls, and creating blood bonds remains the same as for other vampires. You cannot raise any Discipline above four dots. Taking this Flaw precludes you from taking the Generation Background, and you may not start with Status, either. You are likely a Clanless Caitiff, for your blood is probably too thin to pass down the distinguishing characteristics of a Clan. Most Fourteenth-Generation vampires should also take the Thin Blood Flaw.
+
+
+{ 2 }_Disfigured_( Vampire: The Masquerade 20th Anniversary Edition -- Page 481 )
+
+A hideous disfigurement makes your appearance disturbing and memorable. The difficulties of all die rolls relating to social interaction are increased by two. You may not have an Appearance rating greater than 2.
+
+
+{ 2 }_Dulled Bite_( Vampire: The Masquerade 20th Anniversary Edition -- Page 481 )
+
+For some reason your fangs never developed fully, or they may not have manifested at all. When feeding, you need to find some other method of making the blood flow. Failing that, you must achieve double the normal number of successes in order to make your bite penetrate properly. A number of Caitiff and high-Generation vampires often manifest this Flaw.
+
+
+{ 2 }_Fangless_( Lore Of The Clans -- Page 270 )
+
+Prerequisites: Caitiff
+
+Considered the mark of a true mongrel, you never developed your fangs, or you lacked teeth before the Embrace. Either way, you have to use a knife or otherwise drink from bleeding wounds. You have no natural way beyond Disciplines to inflict aggravated damage.
+
+
+{ 2 }_Forked Tongue_( Lore Of The Clans -- Page 67 )
+
+Prerequisites: Follower of Set
+
+Your tongue is forked, flickering, and inhumanly reptilian. Upholding the Masquerade becomes difficult for you. Note that this tongue does not inflict aggravated damage, nor draw blood.
+
+
+{ 2 }_Infectious Bite_( Vampire: The Masquerade 20th Anniversary Edition -- Page 481 )
+
+You may not automatically lick the wounds of your feeding closed. In fact, your bites have a one in five chance of becoming infected and causing mortal victims to become seriously ill. The precise nature of the infection is determined by the Storyteller.
+
+
+{ 2 }_One Eye_( Vampire: The Masquerade 20th Anniversary Edition -- Page 481 )
+
+You have only one eye -- which eye is missing is up to you. The difficulties of all Perception rolls involving eyesight are increased by two, and the difficulties of all die rolls requiring depth perception are increased by one (this includes ranged combat).
+
+
+{ 2 }_Parasitic Infestation_( Lore Of The Clans -- Page 162 )
+
+Prerequisites: Nosferatu
+
+Living in the dark has made you a home to all manner of creepy crawlies and bloodsuckers. Your skin is crawling with ticks, lice, and leeches of all descriptions. They constantly bite and burrow, and having fed on your vitae, they have become very hard to kill. Not only can you not command them, you have tried everything to get rid of them and still they persist. Whatever the reason, they find you so succulent they reduce your blood pool by the result of one die divided by 3 (round down) each time you rise. The constant itch also keeps you on edge, increasing the difficulty of any Self-Control or Instinct rolls by 1.
+
+
+{ 2 }_Uncontrollable Night Sight_( Lore Of The Clans -- Page 123 )
+
+Prerequisites: Lasombra
+
+Your night vision is good, but you can't turn it off. While you can see easily into the deepest shadows, any light is almost blinding to you. You suffer penalties the brighter the area you are in is lit, inversely proportional to the standard penalties for darkness. Even just standing in a well-lit room is uncomfortable to you.
+
+
+{ 2 }_Venomous Bite_( Lore Of The Clans -- Page 67 )
+
+Prerequisites: Follower of Set
+
+You have developed venom glands in the roof of your mouth. The venom is a virulent neurotoxin, fatal to mortals, although Kindred and other supernatural creatures are unaffected by it. You, of course, are immune. The problem is you have no control over your poison glands. When you bite, you always inject this venom, usually killing your human victims. You must learn to feed in other ways, perhaps drawing the blood you need with a syringe or razor, if you do not wish to kill every time you feed.
+
+
+{ 2 }_Vulnerability To Silver_( Vampire: The Masquerade 20th Anniversary Edition -- Page 482 )
+
+To you, silver is as painful and as deadly as the rays of the sun. You suffer aggravated wounds from any silver weapons (bullets, knives, etc.), and the mere touch of silver objects discomfits you.
+
+
+{ 2 OR 4 }_Open Wound_( Vampire: The Masquerade 20th Anniversary Edition -- Page 482 )
+
+You have one or more wounds that refuse to heal, and which constantly drip blood. This slow leakage costs you an extra blood point per evening (marked off just before dawn), in addition to drawing attention to you. If the wound is visible, you are at + 1 difficulty for all Social-based rolls. For two points, the Flaw is simply unsightly and has the basic effect mentioned above; for four points the seeping wound is serious or disfiguring and includes the effects of the Flaw Permanent Wound.
+
+
+{ 3 }_Aging_( Hunters Hunted II -- Page 141 )
+
+Prerequisite: Arcanum Member
+
+You are not as spry as you used to be. Lower one Physical Attribute score (your choice) by one point. An Attribute cannot go below one with this Flaw. You may take this Flaw at 40 years old and once again per decade after.
+
+
+{ 3 }_Addiction_( Vampire: The Masquerade 20th Anniversary Edition -- Page 482 )
+
+You suffer from an addiction to a substance, which must now be present in the blood you drink (or you automatically frenzy, as per the Prey Exclusion Flaw). This can be alcohol, nicotine, hard drugs, or simply adrenaline. This substance always impairs you in some fashion.
+
+
+{ 3 }_Child_( Vampire: The Masquerade 20th Anniversary Edition -- Page 482 )
+
+You were a small child (between five and 10 years old) at the time of your Embrace, leaving your Physical Attributes underdeveloped and making it difficult to interact with some aspects of mortal society. You may not have more than two dots in Strength or Stamina at character creation, except when raising Physical Attributes with blood points, and the difficulties of all die rolls when attempting to direct or lead mortal adults are increased by two. Characters with this Flaw should also take the Short Flaw.
+
+
+{ 3 }_Deformity_( Vampire: The Masquerade 20th Anniversary Edition -- Page 482 )
+
+You have some kind of deformity -- a misshapen limb, hunchback, or clubfoot, for example -- which affects your physical abilities and interactions with others. A hunchback, for instance, would lower a character's Dexterity by two dots and increase the difficulty of die rolls relating to social skills by one. It is the responsibility of the Storyteller to determine the specific effects of the deformity chosen.
+
+
+{ 3 }_Glowing Eyes_( Vampire: The Masquerade 20th Anniversary Edition -- Page 482 )
+
+You have the stereotypical glowing eyes of vampire legend, which gives you a -1 difficulty on Intimidation rolls when you're dealing with mortals. However, the tradeoffs are many; you must constantly disguise your condition (no, contacts don't cut it); the glow impairs your vision and puts you at +1 difficulty on all sight-based rolls (including the use of ranged weapons); and the radiance emanating from your eye sockets makes it difficult to hide (+2 difficulty to Stealth rolls) in the dark.
+
+
+{ 4 }_Heartless_( Lore Of The Clans -- Page 67 )
+
+Prerequisites: Follower of Set
+
+You have lost your heart. Either you removed it via The Heart of Darkness (see V20, p. 210), or an elder did it to you, but either way you no longer have easy access to it. The heart might be in the possession of a foe, or simply missing. If it turns out that a Cainite possesses the heart (say a Setite elder, or your sire) you must obey their every command. If it's merely missing, the anxiety and obsession to find it interferes with your nightly existence, and may increase the difficulty of Willpower rolls by +1 at Storyteller discretion.
+
+
+{ 3 }_Hemophiliac_( Hunters Hunted II -- Page 43 )
+
+Prerequisite: Hunter
+
+Your character suffers from hemophilia. If she is cut, she will not stop bleeding without medical help. If your hunter suffers lethal or aggravated damage, she suffers an additional level of bashing damage every five minutes until her wound has been dressed to stop the bleeding. Any vampire who bites her may "dress" such wounds and end the ongoing bashing damage by licking the injury after he bites her.
+
+
+{ 3 }_Lame_( Vampire: The Masquerade 20th Anniversary Edition -- Page 482 )
+
+Your legs are damaged, which prevents you from running or walking easily. You are forced to walk with a cane or possibly leg braces, and you have a pronounced limp to your stride. Your walking speed is one-quarter that of a normal human, and running is impossible.
+
+
+{ 3 }_Lazy_( Vampire: The Masquerade 20th Anniversary Edition -- Page 482 )
+
+You are simply lazy, avoiding anything that requires effort on your part. Preferring to let others do the hard work, you lounge around. For any action that requires preparation, there's a good chance you didn't properly prepare. Difficulty rolls for spontaneous Physical actions (including combat, unless it's part of a planned offensive) increase by one.
+
+
+{ 3 }_Monstrous_( Vampire: The Masquerade 20th Anniversary Edition -- Page 482 )
+
+Your physical form was twisted during the Embrace, and now reflects the Beast that rages inside you. Characters with this Flaw appear to be savage monsters and have Appearance ratings of zero. Nosferatu and other bloodlines whose weaknesses cause them to start off with Appearance zero cannot take this Flaw.
+
+
+{ 3 }_Permanent Fangs_( Vampire: The Masquerade 20th Anniversary Edition -- Page 482 )
+
+Your fangs do not retract, making it impossible for you to hide your true nature. While some mortals may think you've had your teeth filed or are wearing prosthetics, sooner or later you're going to run into someone who knows what you truly are. You are also limited to a maximum Appearance rating of 3.
+
+
+{ 3 }_Permanent Wound_( Vampire: The Masquerade 20th Anniversary Edition -- Page 482 )
+
+You suffered injuries during your Embrace which your transformation somehow failed to repair. At the beginning of each night, you rise from sleep at the Wounded health level, though this may be healed by spending blood points.
+
+
+{ 3 }_Slow Healing_( Vampire: The Masquerade 20th Anniversary Edition -- Page 483 )
+
+You have difficulty healing wounds. It requires two blood points to heal one health level of bashing or lethal damage, and you heal one health level of aggravated damage every five days (plus the usual five blood points and Willpower expenditure).
+
+
+{ 4 }_Disease Carrier_( Vampire: The Masquerade 20th Anniversary Edition -- Page 483 )
+
+Your blood carries a lethal and highly contagious disease.The disease can be anything from rabies to HIV, and Kindred who drink your blood have a 10% chance of becoming a carrier as well. You must spend an extra blood point each night on awakening, or you will begin manifesting symptoms of the disease (increased chance to frenzy for rabies, reduced soak rolls for HIV, etc.).
+
+
+{ 4 }_Deaf_( Vampire: The Masquerade 20th Anniversary Edition -- Page 483 )
+
+You cannot hear. While you may be more resistant to some applications of Dominate, you also may not listen to electronic or vocal media, and the difficulties of many Perception rolls are increased by three.
+
+
+{ 4 }_Fifteenth Generation_( Vampire: The Masquerade 20th Anniversary Edition -- Page 483 )
+
+Your vitae is so weak that only six of your 10 blood points can be used for Disciplines, healing or raising Attributes. For these functions, you must expend two blood points to obtain the effect a normal vampire would achieve with one. (The cost for nightly rising remains a single blood point.) What's more, you cannot create or sustain ghouls, create a blood bond, or sire a vampiric childe. You can use the remaining four blood points to survive through the day and wake up each night, nothing more. You cannot raise any Discipline above three dots. The weakening of the Curse of Caine has compensations, though (which distinguish this Flaw from the Thin Blood Flaw itself). Sunlight does lethal damage to you, instead of aggravated damage as it does to other vampires. You can hold down mortal food and drink for an hour or so; other vampires vomit immediately if they try (unless they have the Eat Food Merit). Strangest of all, once in a while you might actually have a child the normal, human way... though it will hardly be a normal, human child.
+
+
+{ 4 }_Mute_( Vampire: The Masquerade 20th Anniversary Edition -- Page 483 )
+
+You cannot speak. You may communicate with the Storyteller and describe your actions, but cannot talk to player or Storyteller characters unless everyone concerned purchases a commonly understood sign language (via the Language Merit) or you write down what you wish to say.
+
+
+{ 4 }_Thin Blood_( Vampire: The Masquerade 20th Anniversary Edition -- Page 483 )
+
+Your blood is thin, weak, and does not sustain you well. All blood point costs are doubled (e.g., using blood-related Disciplines or healing damage), although you only lose one blood upon rising in the evening. Furthermore, you are unable to create a blood bond, and efforts to sire other vampires succeed only one in five times.
+
+
+{ 5 }_Flesh Of The Corpse_( Vampire: The Masquerade 20th Anniversary Edition -- Page 483 )
+
+Your flesh does not fully regenerate itself once it is damaged. While you are able to heal yourself to the point of regaining full functionality, your skin still retains the cuts, tears, bullet holes, and other visible damage that you have incurred. Depending on the nature of the damage, this Flaw will make social dealings exceedingly difficult, and may decrease your Appearance dots over time (even to 0).
+
+
+{ 5 }_Infertile Vitae_( Vampire: The Masquerade 20th Anniversary Edition -- Page 484 )
+
+During your Embrace, something went horribly wrong, causing your blood to mutate under the stress of dying and rising again. All those you try to Embrace die. No matter what you do, you may not create any childer. However, your blood can still be used in blood rituals like Thaumaturgy and the Vaulderie, or for any other vampiric needs like making ghouls.
+
+
+{ 6 }_Blind_( Vampire: The Masquerade 20th Anniversary Edition -- Page 484 )
+
+You cannot see. Characters can compensate for the loss of vision by becoming more attuned to other sensory input, but visual cues and images are lost to them. Difficulties of all Dexterity-based rolls are increased by two. Oddly, vampires with Aura Perception (Auspex 2) are still able to use this ability, thought the information is interpreted via the other senses. On the other hand, vampires who need make eye contact to enact powers like Dominate against you are only at a penalty to do so.

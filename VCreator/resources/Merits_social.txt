@@ -1,0 +1,319 @@
+{ 1 }_Brahmin_( Lore Of The Clans -- Page 182 )
+
+Prerequisites: Ravnos; member of the Brahmin jati
+
+As a member of the Brahmin jati, you are a priest, artist, teacher, or other pillar of society. Perhaps you keep the lore of the Clan, or perhaps you act as an advisor to other Ravnos in need of wisdom. Once per session, if you fail an Academics or Expression roll, you may immediately reroll it.You do not have to purchase this Merit to be a member of the Brahmin jati, but only members of the Brahmin jati may have this Merit.
+
+
+{ 1 }_Elysium Regular_( Vampire: The Masquerade 20th Anniversary Edition -- Page 487 )
+
+You spend an unusual amount of time in Elysium. You see and are seen to such an extent that all of the movers and shakers of Elysium at least know who you are. Extended time spent in Elysium also gives you extended opportunities to interact with the Harpies and other Kindred of that stature -- and they'll know your name when you approach them. This Merit is generally taken by vampires that respect and attend Elysium on a regular basis.
+
+
+{ 1 }_Former Ghoul_( Vampire: The Masquerade 20th Anniversary Edition -- Page 487 )
+
+You were introduced to the Blood long before you were made Kindred. Your long experience as a ghoul gives you insight into and comfort with vampiric society. You are at -1 difficulty on all Social rolls when in the presence of other neonates (particularly those who haven't been educated by their sires), and have a -1 difficulty on all rolls relating to vampiric knowledge.
+
+
+{ 1 }_Harmless_( Vampire: The Masquerade 20th Anniversary Edition -- Page 487 )
+
+Everyone in the city knows you, and knows that you're no threat to their plans. While that sort of estimation may seem insulting, it's also what's kept you from being killed. No one considers you worth their time to deal with, and that low opinion keeps you safe. If you start acting in a way that demonstrates that you are no longer harmless, others' reactions to you will likely change as a result.
+
+
+{ 1 }_Kshatriya_( Lore Of The Clans -- Page 182 )
+
+Prerequisites: Ravnos; member of the Kshatriya jati
+
+You are a member of the Kshatriya jati; perhaps you are a warrior, a descendant of rulers, or a member of the military. Your role is to protect the Ravnos in war, and govern in peace. Once per session, you regain a Willpower when you successfully use a combat maneuver.You do not have to purchase this Merit to be a member of the Kshatriya jati, but only members of the Kshatriya jati may have this Merit.
+
+
+{ 1 }_Natural Leader_( Vampire: The Masquerade 20th Anniversary Edition -- Page 487 )
+
+You are gifted with a certain magnetism to which others naturally defer. You receive two extra dice when making Leadership rolls. You must have a Charisma rating of 3 or greater to purchase this Merit.
+
+
+{ 1 }_Prestigious Sire_( Vampire: The Masquerade 20th Anniversary Edition -- Page 488 )
+
+Your sire has or had great status in her Sect or Clan, and this has accorded you a certain amount of prestige. Though your sire may no longer have any dealings with you, the simple fact of your ancestry has marked you forever. This prestige might aid you greatly in dealings with other vampires, or it might engender jealousy or contempt.
+
+
+{ 1 }_Protege_( Vampire: The Masquerade 20th Anniversary Edition -- Page 488 )
+
+Your sire watched you for some time before Embracing you, and spoke glowingly of you to acquaintances. These vampires may be inclined to look favorably on you by dint of your sire's recommendation; you are at -1 difficulty on Social rolls with all those who've heard good things about you.
+
+
+{ 1 }_Rep_( Vampire: The Masquerade 20th Anniversary Edition -- Page 488 )
+
+Your fame has exceeded the bounds of your Sect. Everyone knows who you are, what you've done and what you're supposed to have done (which might not be the same thing). The publicity can be good or bad; what matters is that everybody knows your name. Whether individuals outside of your immediate social circle know enough to match your face to your name is a different matter.
+
+
+{ 1 }_Sabbat Survivor_( Vampire: The Masquerade 20th Anniversary Edition -- Page 488 )
+
+You've lived through at least one Sabbat attack or attempted recruitment. Your experience helps you anticipate situations where you might potentially be endangered by the Sabbat once again. You are at -1 difficulty on all Perception rolls when it comes to Sabbat-based matters. This Merit is generally taken by groups in conflict with the Sabbat, and comes into play most frequently as a means of avoiding ambushes. An unsettling number of Arcanists have this merit, including Chancellor D'Souza.
+
+
+{ 1 }_Secret Society Member_( Lore Of The Clans -- Page 218 )
+
+Prerequisites: Tremere
+
+You have found and joined one of the many secret societies in Clan Tremere. Your character must be suitable to join, such as having Necromancy to join the Covenant. You might pick one of the societies listed here or create one of your own. In most cases, your society membership should be kept secret, but your allegiance to it is not considered a crime. While your society expects you to uphold its tenets and agenda, they can also be counted upon to back you up and help you increase your power within the pyramid.
+
+
+{ 1 }_Sectarian Ally_( Lore Of The Clans -- Page 26 )
+
+Prerequisites: Assamite
+
+You have a close friend in one of the Kindred sects. Perhaps you are a warrior who is in touch with one of the antitribu, a vizier who shares common business interests with some Camarilla Ventrue, or a sorcerer who corresponds with one of the rare blood magicians of the Anarch Movement. Your ally can help you navigate the currents of their sect, but they might want something in exchange from time to time.
+
+
+{ 1 }_Thugs_( Hunters Hunted II -- Page 151 )
+
+Prerequisite: Criminal
+
+When you purchase the Allies Background, you are acquiring hard-core members of the underworld rather than ordinary members of lawful society. Your Allies may be gang members, mafiosos, or members of your organized crime syndicate. Unlike normal Allies, these individuals are willing to pick fights with other mortals, murder innocents, intimidate locals, temporarily lock down an area of the city, or even commit crimes on your behalf.
+
+
+{ 1 }_Vaishya_( Lore Of The Clans -- Page 182 )
+
+Prerequisites: Ravnos; member of the Vaishya jati
+
+The Vaishya jati are tasked with utilizing influence, maintaining the human herds, and keeping finances. They are often seen as traders and merchants, but to the Ravnos, they are also a critical part of maintaining the Masquerade that hides vampires from mortal hunters. Once per session, you may call on one of your Backgrounds as if you had an extra dot in that Background (up to the normal maximum of 5).You do not have to purchase this Merit to be a member of the Vaishya jati, but only members of the Vaishya jati may have this Merit.
+
+
+{ 1 - 3 }_Ecclesial Rank_( Hunters Hunted II -- Page 123 )
+
+Prerequisite: Society Of Leopold Member
+
+Though your status as an Inquisitor is a secret outside of the Society of Leopold, you are also an official member of the Roman Catholic Hierarchy. This Merit determines your standing, each point widening the scope of your service and influence. The one-point version grants you the rank of priest, presiding over one parish (and its deacons and laity). The two-point version grants you the rank of Bishop, presiding over one diocese, consisting of many parishes (and their priests). The three-point version grants you the rank of Archbishop, presiding over several dioceses (and their bishops).
+
+
+{ 1 - 5 }_Court Favorite_( Lore Of The Clans -- Page 121 )
+
+Prerequisites: Lasombra
+
+While the Courts of Blood are usually difficult to sway, you have become very good at shifting the balance. A mixture of experience and political empathy allow you to know just the right way to nudge the decision in your direction, or perhaps for that of your client. Any roll made that will affect the decision in a Court of Blood is granted a bonus or penalty (whichever is in your favor) in dice equal to the level you have of this Merit.
+
+
+{ 1 - 6 }_Boon_( Vampire: The Masquerade 20th Anniversary Edition -- Page 488 )
+
+Someone owes you a favor. The vampire in your debt might be the lowliest neonate in the city or might be the Prince herself; it all depends on how many points the Merit costs. You only have that single favor owed you (unless you take the Merit multiple times), so using it properly is of paramount importance. Depending on status and other factors, the vampire who owes you a favor may well resent his debt, and might go out of his way to "settle" it early -- even going so far as to create situations from which he must "rescue" you and thus clear the slate.
+
+
+{ 2 }_Bigger Boys Came_( Lore Of The Clans -- Page 121 )
+
+Prerequisites: Lasombra
+
+When someone uses their contacts to their advantage, you can try to use yours to overrule them. You might get an editor to quash a reporter's story, or get a gang boss to stop his thugs taking down a rival. To do this you must make a roll using Manipulation + Contacts (difficulty 8). If you can get more successes than the Contacts rating of your opponent, their contacts fail to come through for them.
+
+
+{ 2 }_Bullyboy_( Vampire: The Masquerade 20th Anniversary Edition -- Page 488 )
+
+You're part of the brute squad the local Sheriff or Bishop calls on when he needs some muscle. As a result, you get in on action that others miss entirely, score points with those in power, and occasionally get a chance to act outside of the law. How far outside the law you can go depends on circumstance and how much the vampire you report to likes you.
+
+
+{ 2 }_Critters_( Lore Of The Clans -- Page 182 )
+
+Prerequisites: Ravnos
+
+You're excellent with animals -- so much so that they constantly seek to befriend you. Wherever you go, the animals are happy to see you, and more often than not, happy to help you when you ask for their aid. You receive a bonus die on Social rolls to affect small animals. Further, animal companions who have had continual interaction with you see you as something of a pet, and occasionally bring you small useful things. Once per game session, animals will bring you a useful piece of information or a small item relevant to events. This item might occasionally play into the individual Ravnos' particular vice, as the animals quickly pick up on what pleases their friend.
+
+
+{ 2 }_Inter-Agency Liaison_( Hunters Hunted II -- Page 133 )
+
+Prerequisite: Government Agent
+
+You work for two agencies at the same time. Either you're a liaison officer between the two agencies -- Homeland Security provides a handy cover for the CIA or NSA to poke their noses into the FBI and vice versa -- or your current employers don't know who you really work for. Either way, you can draw on the intelligence and resources of both agencies when you need to. You must purchase the Rank Background for each agency separately, and your Rank at your "home" agency must be equal to or greater than your Rank at your new agency.
+
+
+{ 2 }_Lawman's Friend_( Vampire: The Masquerade 20th Anniversary Edition -- Page 488 )
+
+For whatever reason (maybe your winning smile or perhaps just your superb groveling technique), the local Sheriff or Bishop in charge of discipline likes you. He's inclined to overlook your minor trespasses and let you in on things you're not supposed to know about. He even gives you warnings about occasional crackdowns and times when the higher-ups aren't feeling generous. Of course, abusing this connection might well turn a friendly vampire into an enemy -- and the change might not be apparent until it's too late.
+
+
+{ 2 }_Legacy_( Hunters Hunted II -- Page 151 )
+
+Prerequisite: Criminal
+
+Your character comes from a lineage of hunters; either a family responsibility has been passed down, or your character is considered a "successor" to a particularly famous or successful hunter of the past. When you purchase the Contacts Background, you may double the number of specific contacts you receive for each dot. Alternatively, you can purchase the Artifact or Reliquary Background to reflect a powerful heirloom.
+
+
+{ 2 }_Outside Haven_( Lore Of The Clans -- Page 219 )
+
+Prerequisites: Tremere
+
+You maintain your own private haven outside the chantry and Tremere control. Most Tremere are expected to rest in the chantry, where the Clan can keep an eye on them. However, you have been trusted with a little more privacy. This might be because you have already proved your loyalty, or perhaps because they are testing it.
+
+
+{ 2 }_Peacemaker_( Anarchs Unbound -- Page 102 )
+
+Prerequisite: Anarch
+
+You have a reputation for having a good head on your shoulders and the honor to keep your word no matter what. As a result, your allies and sectmates ask you to mediate their disputes, even with other sects. This Merit allows your character to use her reputation as leverage to keep the peace during tense situations. Reduce the difficulty of all social rolls to keep the peace or to mediate honestly between factions (even other sects) by 2.
+
+
+{ 2 }_Old Pal_( Vampire: The Masquerade 20th Anniversary Edition -- Page 488 )
+
+An acquaintance from your breathing days was Embraced at the same time you were. Fortunately, your friendship has endured even death and unlife, and you find a constant source of support and aid in your old friend. She expects the same of you, which isn't always convenient, but at least you each have someone to hang onto who remembers the good old nights -- and days. The Storyteller should play the Old Pal as a very loyal Ally.
+
+
+{ 2 }_Open Road_( Vampire: The Masquerade 20th Anniversary Edition -- Page 488 )
+
+Unlike many Kindred, you like to travel. You have a solid knowledge of safe travel routes and methodologies, not to mention haven space available in any number of destinations. Unless someone out there knows your exact route and is specifically looking for you, you can move between cities unimpeded by random encounters with Lupines, overzealous state troopers, and the like.
+
+
+{ 2 }_Prized Patch_( Anarchs Unbound -- Page 102 )
+
+Prerequisite: Anarch
+
+You belong to an Anarch gang with a violent, effective, or otherwise impressive reputation. The history of the gang might extend a hundred years before you were born, but so long as you hold membership and wear the colors of your crew, other Anarchs naturally tend to respect you. Some may even occasionally perform minor tasks for you to try to curry favor with the others. When your membership is known, reduce the difficulty of all Manipulation rolls with other Anarchs by 2 unless a given Anarch has a historical animosity with your gang.
+
+
+{ 2 }_Research Grant_( Hunters Hunted II -- Page 141 )
+
+Prerequisite: Arcanum Member
+
+You have a prestigious research grant from some university or research center. This frees you from the burden of needing a regular job. The grant provides a minimal stipend (from $1500 to $2000 a month in most cases), as well as credentials which grant access to exclusive libraries and research centers around the world.
+
+
+{ 2 }_Sanction_( Hunters Hunted II -- Page 133 )
+
+Prerequisite: Government Agent
+
+Your agency has given you a limited sanction to deploy lethal force against specific named targets. They will hold you responsible for any additional deaths, and won't hesitate to revoke your sanction if you're too sloppy. This authority is extremely rare -- the CIA authorizes some killings in foreign territories, and a shadowy group high up in the FBI uses it to eliminate potential domestic terrorists. As long as you do as they tell you, your agency provides weapons and equipment (within reason) and will cover your tracks once the job is done. Despite popular perception, this isn't a "license to kill" -- murdering people is still illegal even with the backing of an intelligence agency, and you could be prosecuted for murder if caught.
+
+
+{ 2 }_Sanctioned Witch_( Hunters Hunted II -- Page 123 )
+
+Prerequisite: Society Of Leopold Member
+
+You are known as a "Judas Witch," having received the Sanctuary of the Disciplina Arcani from the Inquisitor-General herself. You cannot be punished or detained for occult study or the use of Numina (though the sanction can be revoked for misconduct). A tattoo of the Seal of Solomon, on the palm of your left hand, marks your credentials. This does not mean everyone in the Society trusts your expertise, as many despise the magic arts.
+
+
+{ 2 }_Sanctity_( Vampire: The Masquerade 20th Anniversary Edition -- Page 488 )
+
+This Merit is sometimes called the halo effect; everyone considers you pure and innocent, though not necessarily naive. You have a saint-like quality that is hard to pinpoint but cannot be denied. You are trusted, even if you are not trustworthy. At the Storyteller's discretion, you tend to receive lesser punishments for wrongdoing, and you are liked by most.
+
+
+{ 2 }_Scholar Of Enemies_( Vampire: The Masquerade 20th Anniversary Edition -- Page 489 )
+
+You have taken the time to learn about and specialize in one particular enemy of your Sect. You are aware of at least some of the group's customs, strategies, abilities, and long-term goals, and can put that knowledge to good use. This Merit is worth a -2 difficulty for all non-combat rolls pertaining specifically to the subject of your specialization. On the other hand, you are at a +1 difficulty when it comes to dealing with other enemies, simply because you're so thoroughly focused on your field.
+
+
+{ 2 }_Scholar Of Others_( Vampire: The Masquerade 20th Anniversary Edition -- Page 489 )
+
+This Merit functions identically to Scholar of Enemies, except that it applies to a group that is not necessarily inimical to your Sect.
+
+
+{ 2 - 5 }_Secret Stash_( Lore Of The Clans -- Page 122 )
+
+Prerequisites: Lasombra
+
+You have several resources, sleeper agents, or followers hidden away for a rainy day. For each level of this Merit you have one unassigned Background point "sitting in storage" (2 gives you one point, 3 gives you two points, and so on). At any time, you may spend as many of them as you like to increase your level in Allies, Contacts, Herd, Influence, Mentor, Resources, or Retainers. Once spent, the points remain assigned permanently, but until then they cannot be affected by anything. This allows the vampire to create a new resource in an instant, without requiring the expenditure of experience points or awaiting a downtime. The vampire is not really gaining new levels, but revealing levels he has had all along.
+
+
+{ 3 }_Aura Of Command_( Lore Of The Clans -- Page 122 )
+
+Prerequisites: Lasombra
+
+Whether you are good at barking orders or simply have a commanding tone, people tend to do what you tell them to do. You are not so much a natural leader as a born commander. When using the Leadership skill to get others to obey you, the difficulty is reduced by two.
+
+
+{ 3 }_Backup Identity_( Hunters Hunted II -- Page 133 )
+
+Prerequisite: Government Agent
+
+Most agents build up one or two cover identities, replete with backgrounds and supporting documents. You've gone one further, and got a cover identity that your agency doesn't know about. Your backup identity has a full set of documents, including a social security card and a passport, a bank account, and even owns a small apartment. Unlike most cover identities, nothing links you and your backup identity, meaning it can come in very handy when you need to work off the record, and as a get-out card when things get hairy. This Merit just provides documentation and a guarantee that intelligence agencies don't know about your alter ego. You still need the Alternate Identity Background if you want to play the part effectively.
+
+
+{ 3 }_Embedded Agent_( Hunters Hunted II -- Page 133 )
+
+Prerequisite: Government Agent
+
+You're an accepted member of your intelligence agency, despite any weird side-project you work on. You might be an FBI agent with a sterling record who happens to moonlight for SAD, or an NSA intelligence analyst who just happens to spend a couple of weeks each quarter monitoring chaoscope reports. Because you spend more time around "normal" agents, they accept you as one of their own. Add a bonus die to any Empathy, Leadership, or Investigation rolls when dealing with other members of your agency. You're also the last person anyone would think to name as a "monster hunter," which keeps you under the radar of otherwise well-informed supernatural creatures.
+
+
+{ 3 }_Friend Of The Underground_( Vampire: The Masquerade 20th Anniversary Edition -- Page 489 )
+
+While you're not a Nosferatu, you know your way around the sewers, tunnels, ducts, subway tubes, and other subterranean passages of your hometown. The local Nosferatu (and any other creatures dwelling down in the muck) may not actually like you, but they're not inclined to kill you on sight when they see you in their territory. You are at -1 difficulty on any rolls involving the subterranean world (sneaking from place to place underground, finding routes into sub-basements, and so on). Nosferatu cannot purchase this Merit.
+
+
+{ 3 }_Mole_( Vampire: The Masquerade 20th Anniversary Edition -- Page 489 )
+
+You have an informer buried in one of your Sect's enemy organizations who funnels you all sorts of information as to what her peers are up to. What you do with the information is up to you, but abusing the knowledge might be a good way to get your informer killed. The other side has spies too.
+
+
+{ 3 }_Non-Standard Access_( Hunters Hunted II -- Page 133 )
+
+Prerequisite: Government Agent
+
+Everyone working for one of the US Government's alphabet soup of agencies has access to information not available to the public, but you're privy to secrets that are way above your pay grade. Maybe someone in the Pentagon owes you his life, or you just find files in an old dead-drop. Once per story, the Storyteller will ensure that you receive classified information useful to your current operation. The information is always useful and accurate, but not necessarily complete. Though it's dangerous to explain how you came by your new knowledge, your informant is confidential and you haven't yet suffered a leak.
+
+
+{ 3 }_Personal Masquerade_( Lore Of The Clans -- Page 269 )
+
+Prerequisites: Caitiff
+
+Thorough charm, manipulation, or just plain luck, you have managed to convince other vampires that you are a member of one of the Clans. Any social interactions with vampires ignorant of your true nature ignore your usual penalty for being Caitiff. However, you must constantly be vigilant of your ruse. Should anyone come to realize you have been playing them for fools, their vengeance will be swift. The higher you climb in Kindred politics, the more likely this becomes. The Clan Weakness Flaw can actually prove to be a boon in supporting your Masquerade. Others, however, must be that much more careful.
+
+
+{ 3 }_Quartermaster_( Lore Of The Clans -- Page 219 )
+
+Prerequisites: Tremere
+
+You are one of the Kindred responsible for maintaining and organizing the chantry's mundane supplies. You may take anything from the chantry's stores as defined by the chantry's Stores rating. While you will have to return or replace anything you borrow, you have access the whole range of equipment appropriate to the size of the chantry. This might range from assault weapons and explosives to advanced medical and scientific equipment.
+
+
+{ 3 }_Rising Star_( Vampire: The Masquerade 20th Anniversary Edition -- Page 489 )
+
+You're one of the up-and-comers in the city, a rising star in your Sect. Everyone wants to know you and be your friend, even as those in power groom you for positions of greater responsibility. You are at -1 difficulty on all Social rolls against any vampires in your Sect who aren't actively opposing your ascent.
+
+
+{ 3 }_Soapbox_( Anarchs Unbound -- Page 102 )
+
+Prerequisite: Anarch
+
+You have some sort of special forum (a zine, a secure blog, a well-known podcast, or a social media account with a lot of followers) that allows your Anarch to express an opinion and have said opinion spread widely. The Soapbox Merit represents a social delivery mechanism that can influence Kindred outside of your character's normal social circle or class. Reduce the difficulty of Expression and Subterfuge rolls by 2 difficulty when dealing with vampires who read the Soapbox.
+
+
+{ 3 }_Sugar Daddy_( Anarchs Unbound -- Page 102 )
+
+Prerequisite: Anarch
+
+You have a personal relationship with a high-ranking member of a different sect. You may invoke your Sugar Daddy's name to lower the difficulty of Manipulation rolls by 2 against members of that sect when attempting to smooth out problems or acquire minor favors. Of course, the Sugar Daddy may expect similar treatment in kind, and is unlikely to look favorably on any behavior that impugns whatever status he may have.
+
+
+{ 4 }_Broken Bond_( Vampire: The Masquerade 20th Anniversary Edition -- Page 489 )
+
+You were once blood-bound but have secretly slipped the leash, and you are free to act as you will once more. Your regnant has no idea that you are not in fact bound, and continues to treat you as if you were. At Storyteller discretion, the experience of having been bound once may render you immune to ever being enthralled again. Sabbat vampires cannot take this Merit.
+
+
+{ 4 }_Clan Friendship_( Vampire: The Masquerade 20th Anniversary Edition -- Page 489 )
+
+One particular Clan (not your own) has a special liking for you. You might have done the Clan as a whole a favor at some point, or perhaps you're just a loud voice in support of their aims. Whatever the case, you're at -2 difficulty on all friendly Social rolls involving members of the Clan in question. Of course, the reaction your cozy relationship with another Clan is likely to draw from your own Clan leaders is an entirely different can of worms.
+
+
+{ 4 }_Primogen / Bishop Friendship_( Vampire: The Masquerade 20th Anniversary Edition -- Page 489 )
+
+The ruling vampires of the city value you and your opinions. You are called in to consult on decisions, and your recommendations carry great weight. Your position may not be an official one, but it's powerful nonetheless.
+
+
+{ 4 }_Trophy Allegiance_( Dread Names: Red List -- Page 100 )
+
+Prerequisite: Alastor; special
+
+Similar to the Clan Friendship Merit, Trophy Allegiance opens doors and allows the character to be treated favorably by a specific Clan. The character has earned the Trophy from the Clan in question for taking down one of the Anathema. Word has spread throughout that Clan, that members should offer assistance and rewards to the character for their deed.While the Trophy itself has likely already been covered with specific rewards, this Social Merit reflects more of a general goodwill and offers the character -2 difficulty on all friendly Social rolls involving members of the Trophy Clan who are familiar with the Alastor's deeds. Additionally, the character's reputation may earn her the occasional small favor such as the use of a haven, a loaner car, access to information from Trophy Clan members. Note: This Merit is only available to Alastor characters who have killed an Anathema and earned a Trophy.
+
+
+{ 5 }_Dynamic Personality_( Lore Of The Clans -- Page 48 )
+
+Prerequisites: Brujah
+
+Your natural charisma draws mortals to you like groupies to a rock star. Consequently, it is easier for you to acquire certain Backgrounds related to mortals.System: In addition to any Backgrounds acquired at character creation or through roleplay, you can purchase new Backgrounds with experience points at the end of each story. The available Backgrounds are Allies, Contacts, Herd, Retainers, and each new dot costs the current rating in experience points.
+
+
+{ 5 }_Setite Initiate_( Lore Of The Clans -- Page 67 )
+
+Prerequisites: Follower of Set
+
+You were Embraced into a Clan other than the Followers of Set. However, you have accepted the Setite religion, undergone the vetting process and rites, and have been formally inducted into the cult. You have access to Serpentis and Setite Blood Sorcery (though you pay out-of-Clan costs to learn them). You may even study one of their Paths of Enlightenment.It is important to note that "Setites" from other Clans or bloodlines are not treated as second-class citizens. You are no longer a dupe they can string along. Once you are in, you are a sibling of faith, which is a much more important distinction than blood. An outsider accepting the Dark God is a joyous event, even to the most conservative elder. There are even rumors of non-Kindred supernatural beings joining the cult.
+

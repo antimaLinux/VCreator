@@ -1,0 +1,341 @@
+{ 1 }_Antitoxin Blood_( Lore Of The Clans -- Page 181 )
+
+Although vampires are typically immune to mortal drugs and poisons, there are supernatural venoms that can affect Kindred physiology. A Ravnos with this Merit is immune to all forms of drugs and poisons, including the venoms and toxins of supernatural creatures or those created by supernatural powers.
+
+
+{ 1 }_Bioluminescence_( Lore Of The Clans -- Page 238 )
+
+Prerequisites: Tzimisce
+
+Perhaps through biological expertise, or perhaps by unlocking something primordial within, you have accessed the secrets of bioluminescence. Using Vicissitude, you may grant yourself (through Malleable Visage) or others (via Fleshcraft) the ability to emit a soft glow. With muscle control and practice, you can control the color and pattern of the illumination. This can light a soft glow in the dark, create beautiful displays, or even act as a primal form of communication. Some Fiends grant their ghouls or childer bioluminescence, developing an eerily nuanced and wordless language with their thralls and broods. Only characters with at least one dot of Vicissitude may purchase this Merit.
+
+
+{ 1 }_Consanguineous Resistance_( Lore Of The Clans -- Page 106 )
+
+Prerequisites: Giovanni
+
+Your character cannot be blood bound by anyone who shares his mortal bloodline. That is, if you were born into the Giovanni family, you cannot be bound by anyone else who was born a Giovanni, though you can still be bound by, say, a Pisanob of the Giovanni Clan, or by Kindred of any other Clan. Similarly, a Dunsirn with Consanguineous Resistance could not be bound by others who were born into the mortal Dunsirn family, but could be bound by a Milliner of the Giovanni Clan.The Giovanni are extremely suspicious of anyone known to manifest this quirk. Although this blood-borne aberration hasn't been documented, a few savvy Giovanni have a rough idea of what it is and does. It's generally associated with being a rebellious young smartass who needs to be put down. This is not as unfair as it sounds; by the time a bond resistance is really obvious, it's likely because a punishment isn't working. A character who is discovered to have this trait probably earns her sire's hostility at the very least.
+
+
+{ 1 }_Deceptive Aura_( Vampire: The Masquerade 20th Anniversary Edition -- Page 493 )
+
+Your aura is unnaturally bright and colorful for a vampire. You register as a mortal on all attempts to read your aura.
+
+
+{ 1 }_Embraced Without The Cup_( Lore Of The Clans -- Page 218 )
+
+Prerequisites: Tremere
+
+For some reason you did not drink the blood of the elders when you were inducted into Clan Tremere. More dangerously, it may have had no effect on you. As a result, you are not bound to the Clan the way most Tremere are. Should it be discovered, it will usually be corrected, but one might almost believe there was some purpose to this lapse, as the Tremere don't make mistakes. Perhaps the Clan has a special task in mind for you, one where you might be forced to act against the Clan to maintain a cover.
+
+
+{ 1 }_Healing Touch_( Vampire: The Masquerade 20th Anniversary Edition -- Page 493 )
+
+Normally vampires can only seal the wounds they inflict from feeding by licking them. With but a touch, you can achieve the same effect, closing the puncture wounds left by drinking blood.
+
+
+{ 1 }_Innocent_( Hunters Hunted II -- Page 142 )
+
+Prerequisite: Arcanum Member
+
+You are always thought of in the most positive light, unless evidence exists to prove otherwise. If you do something wrong and the act is not easily attributed to you, it will most likely be blamed on someone else. This does not mean that you are "an innocent" -- it just means everyone thinks you are.
+
+
+{ 1 }_Inoffensive To Animals_( Vampire: The Masquerade 20th Anniversary Edition -- Page 493 )
+
+With rare exceptions, animals usually despise the Kindred. Some flee, others attack, but all dislike being in the presence of a vampire. You have no such problem. Animals may not enjoy being in your company, but they don't actively flee from you.
+
+
+{ 1 }_Lizard Limbs_( Lore Of The Clans -- Page 160 )
+
+Prerequisites: Nosferatu
+
+Like a lizard, you are able to actually shed parts of your body. By spending a blood point and a little effort, you can detach a hand or foot, or even an arm or leg. This might be to escape bonds or a grapple. Unfortunately, the appendage will not reattach, and you will have to regrow that over time (usually a couple of days for a hand or foot, and a week for a limb). You also suffer a -3 dice pool penalty to actions that would require the use of more limbs.
+
+
+{ 1 }_Mute Devotion_( Lore Of The Clans -- Page 182 )
+
+Prerequisites: Ravnos
+
+Your Animalism carries an unusual side effect: It lingers in the minds of the beasts you speak with or control, lending them a certain resistance to others. When someone else attempts to command a creature you have previously controlled with Animalism, their difficulty levels are at +2.
+
+
+{ 1 - 5 }_Keys To The Library_( Lore Of The Clans -- Page 218 )
+
+Prerequisites: Tremere
+
+You have one of the most sought after positions in the chantry: A librarian. It is one of your duties to catalogue and maintain the magical lore kept in your chantry. This means you have complete access to it, and get to decide who can see it and who can't. A vast array of rituals and Thaumaturgical knowledge resides here, making it simple to learn many of the secrets of magic. No matter how restrictive your chantry, you have complete access to the library for research. The cost of this merit is the same as the chantry's Library rating
+
+
+{ 1 - 5 }_Sleep Unseen_( Lore Of The Clans -- Page 161 )
+
+Prerequisites: Nosferatu
+
+The power of Obfuscate usually requires you to concentrate at least a little. However, you are able to lock the power on, allowing you to sleep while remaining hidden. To do so requires the expenditure of blood point, but it will last throughout the day's rest. Those with Auspex can still attempt to detect you, but mortals will be unaware of your sanctuary. This can be a useful trick for Kindred who like to travel.
+
+
+{ 1 OR 2 }_Hive-Minded_( Lore Of The Clans -- Page 86 )
+
+Prerequisites: Gangrel
+
+Your Animalism works on insects and other creepy-crawlies in addition to animals. If you select the two-point version of this merit, your Protean forms may take the form of an insectoid swarm rather than a single creature (though the swarm must be of a size and mechanical equivalent to a wolf or a bat, as appropriate).
+
+
+{ 1 OR 2 }_Indelible_( Lore Of The Clans -- Page 200 )
+
+Prerequisites: Toreador
+
+Whereas other vampires' bodies return to the state they were in at the Embrace each evening, any body modifications you get after the Embrace remain as they are until you actively spend a Willpower point to return your body to its tabula rasa state. This Merit applies to changes as simple as dyeing or cutting your hair to modifications as complicated as tattoos, piercings, or even small implants.If the Merit only allows for cosmetic alterations, it is worth 1 point. If it allows for more utilitarian alterations, such as RFID implants that activate certain electronic devices, then it is worth 2 points.
+
+
+{ 2 }_Connoisseur_( Lore Of The Clans -- Page 261 )
+
+Prerequisites: Ventrue; Auspex 2+
+
+Your study of the Auspex Discipline, combined with your rarified tastes, allows you an uncanny empathy and connection to a victim, giving you powerful insights into the character of any whose blood you taste.System: The character tastes another's blood (potentially risking a blood bond), and player rolls Perception + Empathy (difficulty 6 for mortals or 8 for Kindred). If the blood came from a mortal, each success allows him to learn one of the following: the mortal's Nature, her Demeanor, any Derangements she may possess, whether she is blood bonded, and whether she carries any blood-borne diseases. If the vitae came from a vampire, he can learn all of the previous information, plus anything discoverable with the first level of the Path of Blood. The Ventrue may taste the blood of a mortal who does not fit within his feeding restriction long enough to use this ability, but he must immediately spit it out afterward. Vampires that do not have Auspex 2 cannot take this Merit.
+
+
+{ 2 }_Dead Zone_( Hunters Hunted II -- Page 151 )
+
+Prerequisite: Criminal
+
+Your exposure to death on a regular basis makes it difficult for ghosts to notice that you exist. You are considered to have one dot of Obfuscate (which works in the lands of the dead as well) against wraiths, spectres, and other such beings.
+
+
+{ 2 }_Distracting Aura_( Lore Of The Clans -- Page 142 )
+
+Prerequisites: Malkavian
+
+Reading an aura using Auspex requires the viewer to focus on recurring patterns and colors to detect a target's emotional state. Because of the unique state of your psyche, your aura is even harder to read than most. All uses of Aura Perception are at a +2 difficulty against you.
+
+
+{ 2 }_Ecstatic_( Hunters Hunted II -- Page 124 )
+
+Prerequisite: Society Of Leopold Member
+
+You are prone to fits of religious ecstasy -- stigmata, glossalia (speaking in tongues), visions, and trances. This is a Merit of dubious benefit. While some may distrust you as a religious hysteric, you find high regard among others of the faith as one "touched by God." Add one die to any Social dice pools when interacting with the Society (and possibly others with similar spiritual beliefs).
+
+
+{ 2 }_Holy Aura_( Hunters Hunted II -- Page 124 )
+
+Prerequisite: Society Of Leopold Member
+
+No matter the color, your aura burns as a brilliant beacon of religious devotion. Even mortals who cannot see auras are drawn to your presence. Subtract one from the difficulty of all social interaction rolls. Some supernaturals will find this a positive aspect; others, particularly the Kindred, may likely be hostile toward you. Many will believe you possess great power (regardless of the truth).
+
+
+{ 2 }_Magic Resistance_( Vampire: The Masquerade 20th Anniversary Edition -- Page 493 )
+
+You have an inherent resistance to the rituals of the Tremere and the spells of the mages of other Clans. The difficulty of all such magic, both malicious and beneficent, is two higher when directed at you. You may never learn magical Disciplines such as Thaumaturgy and Necromancy.
+
+
+{ 2 }_Medium_( Vampire: The Masquerade 20th Anniversary Edition -- Page 493 )
+
+You possess the natural affinity to sense and hear spirits, ghosts, and shades. Though you cannot see them, you can sense them, speak to them and, through pleading or cajoling, draw them to your presence. You may call upon them for aid or advice, but there will always be a price. Also, your difficulty is reduced by two for all Awareness rolls involving the spirits of the dead.
+
+
+{ 2 }_Mortuario_( Lore Of The Clans -- Page 106 )
+
+Prerequisites: Giovanni; cannot have the Sanguine Incongruity Merit
+
+You died. Perhaps you were murdered, or simply had a car accident. Whatever the cause, you were gone. But your sire found you too useful, or couldn't let you go. You were Embraced using the Ferryman's Recall ritual.The Embrace left you with the scars of your death, eternal tracework reminders of your trip to the other side. It also left you with the taut, pallid complexion of the dead. In addition to the traditional weakness of your Clan, you also suffer disfigurement from your time as a true corpse. While you are able to heal yourself just like any other vampire, the wounds do not heal cleanly. You retain the scars of every experience. Depending on the nature of the damage, this can make social dealings exceedingly difficult, and may decrease your Appearance dots over time (even to 0). However, your time across the Shroud also gave you a natural feel for necromantic blood magic. The difficulties of all Necromancy rolls are reduced by one. This trait costs 4 points for characters who already have an appearance of 0 (such as Samedi and the Harbingers of Skulls), or 2 points for any other Kindred. It is an incredibly rare condition even among the Giovanni, and essentially unknown outside the Clan.
+
+Giovanni with this Merit generally arouse the superstition of their Clan, and are treated with a definite wariness, particularly by anziani. Characters with the Mortuario Merit may not also possess the Sanguine Incongruity Merit or similar flaws such as Monstrous.
+
+
+{ 2 }_Pale Aura_( Hunters Hunted II -- Page 43 )
+
+Prerequisite: Hunter
+
+Any color your character's aura takes has a pale cast to it, as though he was a vampire. Unless her player gains five or more successes on an Aura Perception roll, any vampire discerns your hunter's aura as one belonging to the Kindred.
+
+
+{ 2 }_Prophetic Dreams_( Lore Of The Clans -- Page 142 )
+
+Prerequisites: Malkavian
+
+You have dreams during your daylight sleep. Dreams you remember. Sometimes, they even come true. By spending a Willpower point upon rising for the evening, you may have the Storyteller give your character a lucid dream featuring foreshadowing about upcoming events, characters, and situations.
+
+
+{ 2 }_Skald_( Lore Of The Clans -- Page 87 )
+
+Prerequisites: Gangrel
+
+Anytime you make an Occult roll to know a fact about vampiric history, you may add a die to your dice pool. Further, you have exceptional memory for oral histories, and you are a quick study when it comes to memorizing large amounts of rote information. This is not true eidetic memory, but constitutes the ability to memorize poetic eddas, codes, or complex messages with only a few hours of study.
+
+
+{ 2 OR 5 }_Unmarked Antitribu_( Lore Of The Clans -- Page 219 )
+
+Prerequisites: Tremere
+
+While you are part of the Sabbat and a traitor to House and Clan Tremere, somehow you remain unmarked by the antitribu curse. You are not easily recognized as a renegade Tremere, and the magic that burned so many of your brethren cannot target you. Further, other Sabbat members cannot judge you at a glance. Those of the Telyavelic bloodline can purchase this Merit at 2 points, while other Tremere pay 5 points.
+
+
+{ 3 }_Clear-Sighted (Hunter)_( Hunters Hunted II -- Page 44 )
+
+Prerequisite: Hunter
+
+Your character is not easily fooled by illusions. When faced with a supernatural illusion, such as those created by Obfuscate, Chimerstry, and the like, you may make a Perception + Alertness roll (difficulty equal to the opposing power's level +3) for your character to see through the effect.
+
+
+{ 3 }_Cold Read_( Lore Of The Clans -- Page 142 )
+
+Prerequisites: Malkavian
+
+Whenever you meet someone for the first time, you may spend a number of points of Willpower equal to your Perception. For each point spent, you may ask the Storyteller one question about the character. The Storyteller must either answer truthfully or let you take the Willpower point back to you to avoid answering the question.
+
+
+{ 3 }_Haven Affinity_( Lore Of The Clans -- Page 238 )
+
+Prerequisites: Tzimisce
+
+You are the land. The land is you. The home soil calls to you. You give to it, and it gives to you. Your connection to the earth of your prime haven grants you an extra die to all dice pools when operating there. It also acts as a mystic beacon, allowing you to home in on its location with a standard Perception + Survival roll (difficulty 6), +1 difficulty when a state or country separates you; +2 if you're halfway across the globe. This applies only to your primary haven.
+
+
+{ 3 }_Hidden Diablerie_( Vampire: The Masquerade 20th Anniversary Edition -- Page 493 )
+
+The tell-tale black streaks of diablerie do not manifest in your aura.
+
+
+{ 3 }_Lucky_( Vampire: The Masquerade 20th Anniversary Edition -- Page 493 )
+
+You were born lucky -- or else the Devil looks after his own. Either way, you may repeat any three failed rolls per story, including botches, but you may try only once per failed roll.
+
+
+{ 3 }_Oracular Ability_( Vampire: The Masquerade 20th Anniversary Edition -- Page 493 )
+
+You can see and interpret signs and omens. You are able to draw advice from these omens, for they provide hints of the future and warnings of the present. When the Storyteller feels that you are in position to see an omen, you will be required to make a Perception + Awareness roll, with the difficulty relative to how well the omen is concealed. If successful, you may then roll Intelligence + Occult to interpret what you have seen; the difficulty is again relative to the complexity of the omen.
+
+
+{ 3 }_False Reflection_( Lore Of The Clans -- Page 161 )
+
+Prerequisites: Nosferatu
+
+Even when using their Obfuscate abilities, Nosferatu still show up in their true form when noticed by machines, such as cameras or video surveillance. With this ability, the Nosferatu can extend their power to recorded images and media. However, as with Mask of the Thousand Faces, the original image isn't actually changed; it is just that people see it the way the Nosferatu wants it seen. Unfortunately, computers are not so easily fooled: if the image is used for facial recognition software (for instance), the computer will see the Nosferatu's real face and fail to find a match. The Nosferatu has best take care how this power is used, as it may wear off in time. Some archived photos have given librarians a nasty surprise, years after going into storage.
+
+
+{ 3 }_Fury's Focus_( Lore Of The Clans -- Page 48 )
+
+Prerequisites: Brujah; Path of Entelechy followers
+
+Brujah who have devoted themselves to mastering their frenzies through the Path of Entelechy sometimes find tangible benefits resulting from their efforts. A Brujah with this Merit may briefly delay the full onset of frenzy.System: The player spends a Willpower point at the onset of frenzy and then rolls the Brujah's Entelechy rating. The difficulty is one higher than the original roll to resist frenzy. The Brujah still frenzies, but the player controls her character's actions for one turn per success. Furthermore, when the period of partial control ends and the Brujah loses control, the difficulty of any degeneration rolls triggered by sins committed during the frenzy are reduced by the number of successes rolled, to a minimum difficulty of 4.
+
+
+{ 3 }_Revenant Disciplines_( Lore Of The Clans -- Page 238 )
+
+Prerequisites: Tzimisce
+
+The blood of your revenant family runs deep, deeper than the Embrace. The Disciplines that were innate to you as a ghoul have remained so as a Cainite. At character creation, select the ghoul family from which you hail. Instead of the Tzimisce's standard complement of Animalism, Auspex, and Vicissitude, you draw from your three family Disciplines for your starting allocation (though you may buy other Disciplines with freebies, as normal). You trade in the entire set of Tzimisce Clan Disciplines for the set of revenant family Disciplines, for the purposes of in-Clan Experience cost.
+
+
+{ 3 }_Spirit Mentor_( Vampire: The Masquerade 20th Anniversary Edition -- Page 493 )
+
+You have a ghostly companion and guide. The identity and exact powers of this spirit are up to the Storyteller, but it can be called upon in difficult situations for help and guidance.
+
+
+{ 4 }_Blessed By St. Gustav_( Lore Of The Clans -- Page 261 )
+
+Prerequisites: Ventrue Antitribu
+
+Many Ventrue antitribu replace their traditional affinity for Presence with an aptitude for Auspex by means of the ignobilis ritus known as the Prayer to St. Gustav. For your piety and devotion to the Sabbat cause, you have been especially blessed and have an affinity for both Disciplines.System: This Merit is identical to Additional Discipline Merit, except that it can only be used to add Auspex as a fourth in-Clan discipline. Only Ventrue antitribu can take this Merit.Prayer To St. Gustav: Prayer to St. Gustav To the Ventrue antitribu, the Presence discipline (while useful) is often viewed as decadent and unworthy of the martial heritage they imagine for themselves. In contrast, the Auspex discipline is prized for its power to grant insights and to see through deceptions.This ignobilis ritus allows a Ventrue antitribu to replace Presence with Auspex as a Clan Discipline. The ritus requires a group consisting solely of Ventrue antitribu to participate in a Vaulderie while wearing ceremonial armor and singing the praises of St. Gustav Mallenhaus, the founder of the Sabbat Inquisition. The player of any crusader present who has not yet acquired any dots in Presence may roll Intelligence + Occult (difficulty 7), and if the roll succeeds, she may replace Presence with Auspex as a Clan Discipline. With five or more successes, the Storyteller may decide to award the Blessed by St. Gustav Merit. A character who has already started learning Presence may attempt this ritus, but may not swap out his Presence for Auspex -- instead his Presence immediately becomes out-of-Clan, and the player must pay the difference in experience points between what the Presence cost before and what it costs now.
+
+
+{ 4 }_Ecumenist_( Hunters Hunted II -- Page 124 )
+
+Prerequisite: Society Of Leopold Member
+
+The Holy Spirit "bloweth where it listeth." You understand this. You see the fractal reflections of your God in other religions, and you remain humble in knowing how little of the divine you can know. Where others must brandish the holy symbols of their tradition when using True Faith, you see the supernal spark at the core of beliefs beyond your own, and you are able to use their religious icons and holy ground when confronting the supernatural. Likewise, in your presence, a group of individuals from different religions may pool their True Faith for greater effect. Such a communal pool requires only one person with this Merit. You can be the bridge that connects all faiths as brothers and sisters in the long, dark night of the soul.
+
+
+{ 4 }_Lesser Mark Of The Beast_( Lore Of The Clans -- Page 87 )
+
+Prerequisites: Gangrel
+
+Common to the Gangrel known as the Knights of Avalon, you are able to control how your Beast manifests more than others do. Whenever you would gain an animalistic feature, roll your current Willpower (difficulty 12 - Humanity rating, maximum 9). If successful, you manage to channel your humanity to avoid gaining an animalistic feature. However, your Beast is further from you, making you at +2 difficulty to rolls involving Animalism or Protean (or combo Disciplines involving those powers) for the rest of the evening. Vampires on a Path of Enlightenment lose all access to this Merit.
+
+
+{ 4 }_Mark Of Caine_( Rites Of The Blood -- Page 41 )
+
+Prerequisite: Sabbat; must be on a Path of Enlightenment other than Humanity
+
+Over the course of history, some of the Auctoritas Ritae have been lost, either due to the death of Sabbat members, or because the ritus simply was not as integral to the Sect's survival in the modern world. One of these lost ritae was the Mark of Caine, which offered protection against weapons of faith. As faith has declined in the modern world, the ritus was used less and less, until eventually, priests who know the ritae have become all but extinct.Some vampires who participated in the lost Mark of Caine ritus were especially blessed, and still bear a faint sign of favor. Such vampires are always old, pre-dating the first Sabbat Civil War, and once had this ritual cast upon them by a powerful practitioner. These vampires have a small, faded mark upon their forehead that resembles the Hebraic letter tav.Those who bear the Mark of Caine gain a twisted form of True Faith. They can use the effects of the first dot of True Faith -- they must use symbols of Caine as "holy symbols." Further, they get +2 dice to resist mortal True Faith. Only vampires on spiritual Paths of Enlightenment can use this Merit -- if a Cainite reverts to Humanity or succumbs to wassail, all benefit from this Merit is lost forever.
+
+
+{ 4 }_True Love_( Vampire: The Masquerade 20th Anniversary Edition -- Page 493 )
+
+You have discovered, perhaps too late, a true love. He or she is mortal, but is the center of your existence, and inspires you to keep going in a world of darkness and despair. Whenever you suffer, the thought of your true love gives you the strength to persevere. This Merit grants you one automatic success on all Willpower rolls, which can be negated only by a botch die. This can be a great gift but also a hindrance, for your true love may require protection and occasionally rescue.
+
+
+{ 5 }_Additional Discipline_( Vampire: The Masquerade 20th Anniversary Edition -- Page 494 )
+
+You can take one additional Discipline (Storyteller discretion) as if it were a Clan Discipline. All costs to learn that Discipline are paid out as if it were native to your Clan. A character cannot take this Merit more than once, and Caitiff vampires cannot take this Merit.
+
+
+{ 5 }_Clear-Sighted (Arcanum)_( Hunters Hunted II -- Page 141 )
+
+Prerequisite: Arcanum Member
+
+You can see through all levels of Kindred Obfuscate, Chimerstry, and other related Disciplines or supernatural power, with a Perception + Alertness roll against the opposing power's level + 3.
+
+
+{ 5 }_Instrument Of God_( Lore Of The Clans -- Page 123 )
+
+Prerequisites: Lasombra
+
+Your self-confidence comes not from a belief in your own abilities, but due to a direct manifesto from the Lord. You have a divine purpose and He works through you, even though your goals may seem anything but holy. Whether it is because of you powerful will or an actual connection to the divine, you gain three additional dice to resist the powers of True Faith when they are used against you, including soaking damage from True Faith abilities.
+
+
+{ 5 }_Poisonous Blood_( Hunters Hunted II -- Page 44 )
+
+Prerequisite: Hunter
+
+Due to mysterious circumstances, your character's blood is poisonous to vampires. Should a vampire drink from him, every blood point imbibed causes one health level of bashing damage to her. Vampires naturally resent mortals known to possess this blessing and may well seek their destruction. Storytellers are encouraged to have an explanation for this aberration in their chronicles, though the player (and likely character) may not be immediately privy to such knowledge. Some examples include holy protection from a higher power, a rare ritual of protection, or even a genetic abnormality.
+
+
+{ 5 }_Promethean Clay_( Lore Of The Clans -- Page 238 )
+
+Prerequisites: Tzimisce; Vicissitude 1+
+
+Your flesh ripples and molds itself to your preternatural will, almost before you consciously invoke the change. The difficulty to use any Vicissitude power on yourself is two less than normal, and you may activate Vicissitude powers reflexively at your full dice pool while taking other actions. Powers that require multiple turns to activate still require the usual duration. The change simply occurs without conscious direction. As a final benefit, you need no physical sculpting to use the first three levels of Vicissitude on yourself, as your flesh undulates and extrudes to its desired shape. Only characters with at least one dot of Vicissitude may purchase this Merit.
+
+
+{ 5 }_Sanctuary_( Hunters Hunted II -- Page 44 )
+
+Prerequisite: Hunter
+
+Your character has a safe house that is a true sanctuary. Supernatural creatures require a successful Willpower check (difficulty 9) in order to enter her home without an invitation. It might be due some strange mystical occurrence, luck, a forgotten ritual, or perhaps your character's house stands on consecrated ground. This Merit must be assigned to a single building in which the character has a permanent residence. Good examples of a sanctuary might be a house, a small apartment building, or a church.
+
+
+{ 5 }_Sanguine Incongruity_( Lore Of The Clans -- Page 106 )
+
+Prerequisites: Giovanni; cannot have the Mortuario Merit
+
+Giovanni with this atavism are few and far between. Kindred possessing it do not bear the traditional Giovanni Clan weakness, the so-called Curse of Lamia; their Kiss causes no more damage than the blood loss itself. These vampires acquire a peculiar pallor upon their Embrace, however -- they look like corpses, and no amount of blood ingestion can flush their features (as other vampires are able to do). Indeed, the bearer of this Merit more closely resembles the Clan's Cappadocian ancestors, and they have a slightly unnerving air about them. As a result, all rolls involving a Social attribute (Charisma, Manipulation, or Appearance) are at +1 difficulty.Giovanni with this Merit are afforded wide berth, as the Giovanni tend to be quite superstitious about it. Characters with the Sanguine Incongruity Merit may not also possess the Mortuario Merit.
+
+
+{ 5 }_Totemic Change_( Lore Of The Clans -- Page 87 )
+
+Prerequisites: Gangrel
+
+Your Protean forms are flexible; you may choose a different animal form each time you change shape. The form you choose each time must follow all the conventions and rules of standard Protean animal shapes; you simply may choose to appear as a different animal each time you take Beast Form.
+
+
+{ 5 }_Unbondable_( Vampire: The Masquerade 20th Anniversary Edition -- Page 494 )
+
+You are immune to being blood bound. Tremere cannot take this Merit.
+
+
+{ 6 }_Nine Lives_( Vampire: The Masquerade 20th Anniversary Edition -- Page 494 )
+
+Fate has granted you the opportunity to come as close to Final Death as anyone can get and still survive. When a roll occurs that would result in your death, the roll is made again. If the next roll succeeds, then you live -- and one of your nine lives is used up. If that subsequent roll fails, then another reroll is made, until either a successful roll occurs or your nine lives are used up. The Storyteller should keep careful count of how many lives the character has remaining.
+
+
+{ 7 }_Fist Of God_( Hunters Hunted II -- Page 124 )
+
+Prerequisite: Society Of Leopold Member
+
+Some call you "Witch-Hammer," for your naked hands do grievous hurt to the children of the elder night. All your Brawling damage is considered aggravated against supernaturals. Work with the Storyteller to create a good reason for this rare effect, and how it developed. Only mortals with Humanity of seven or higher may purchase (or keep) this Merit.
+
+
+{ 7 }_True Faith_( Vampire: The Masquerade 20th Anniversary Edition -- Page 494 )
+
+You have a deep-seated faith in and love for God, or whatever name you choose to call the Almighty. You begin the game with one point of True Faith; this Trait adds one die per point to all Willpower and Virtue rolls. You must have a Humanity of 9 or higher to choose this Merit, and if you lose even a single point, all your Faith points are lost and may be regained only when the lost Humanity is recovered. Individuals with True Faith are capable of performing magical acts akin to miracles, but the exact nature of those acts are up to the Storyteller.

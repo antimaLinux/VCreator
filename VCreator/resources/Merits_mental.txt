@@ -1,0 +1,171 @@
+{ 1 }_Coldly Logical_( Vampire: The Masquerade 20th Anniversary Edition -- Page 484 )
+
+While some might refer to you as a "cold fish," you have a knack for separating factual reporting from emotional or hysterical coloration. You may or may not be emotional yourself, but you can see clearly when others are clouding the facts with their feelings (-1 difficulty on all related rolls).
+
+
+{ 1 }_Common Sense_( Vampire: The Masquerade 20th Anniversary Edition -- Page 484 )
+
+You have a significant amount of practical, everyday wisdom. Whenever you are about to act in a way contrary to common sense, the Storyteller can make suggestions or warnings about the implications of said action. This is a very useful Merit for beginning players unfamiliar with the game.
+
+
+{ 1 }_Concentration_( Vampire: The Masquerade 20th Anniversary Edition -- Page 484 )
+
+You have the ability to focus your mind and shut out any distractions or annoyances. Characters with this Merit are unaffected by any penalties stemming from distracting circumstances (e.g., loud noises, strobe lights, or hanging upside down).
+
+
+{ 1 }_Introspection_( Vampire: The Masquerade 20th Anniversary Edition -- Page 484 )
+
+You have keen insight into the ulterior motives of all your actions. Through this nightly exercise, you also have incredible insight into the underlying motives of others' actions. Add two dice to your Perception dice pool when you must take an action against someone with the same Nature or Demeanor as you.
+
+
+{ 1 }_Kashaph_( Rites Of The Blood -- Page 100 )
+
+Prerequisite: Inconnu
+
+The term kashaph is of ambiguous meaning, based on a Hebrew root word for "mutter," and implying spoken sorcery and incantations. The term is used in the Old Testament to condemn the practitioners of witchcraft. True kashaph has long been extinct -- save among the Inconnu. Kashaph is an enchanted language, and cannot be "decoded" by modern linguistics or cryptography. The Inconnu use kashaph to communicate secretly, and also as a method of identifying one another.New members of the Inconnu are not taught kashaph by normal means. It cannot be studied, nor learned like a conventional language. Instead, members are indoctrinated into the society through an elaborate ritual during which the language of kashaph is inscribed upon their soul. Once "learned" in this way, the language may be spoken, not written (there is no written form, and the sounds cannot be accurately captured by phonetic scribblings), and only another individual with this merit has the capacity to understand the words said in the language of kashaph.
+
+
+{ 1 }_Language_( Vampire: The Masquerade 20th Anniversary Edition -- Page 484 )
+
+You know a language in addition to your native one. You can take this Merit multiple times, each reflecting a different language.
+
+
+{ 1 }_Time Sense_( Vampire: The Masquerade 20th Anniversary Edition -- Page 484 )
+
+You have an innate sense of time and are able to estimate the passage of time accurately without using a watch or other mechanical device.
+
+
+{ 1 }_Useful Knowledge_( Vampire: The Masquerade 20th Anniversary Edition -- Page 484 )
+
+You have expertise in a specific field that makes your conversation intriguing to an older Kindred. So long as your knowledge holds the other vampire's attention, he has a vested interest in keeping you around. Then again, once he's pumped you for every iota of information you possess, that patronage may suddenly vanish. (Note: This Merit should be played like a 1-dot Mentor with a specific interest. However, unlike a Mentor, Useful Knowledge does not imply a permanent relationship.)
+
+
+{ 1 - 3 }_Tunnel Rat_( Lore Of The Clans -- Page 161 )
+
+Prerequisites: Nosferatu
+
+You are remarkably adept at moving through the underground tunnels that you call your home. When attempting to navigate, escape, or track through sewers and underground places you know, you gain an additional die for every point you have in this Merit.
+
+
+{ 2 }_Call Of The Sea_( Lore Of The Clans -- Page 122 )
+
+Prerequisites: Lasombra
+
+There is something about the sea that makes you feel at home. You are in tune with the tides and rhythm of the ocean. When on a boat in the ocean or on a river, you may add a die to all your dice pools except for Disciplines.
+
+
+{ 2 }_Code Of Honor_( Vampire: The Masquerade 20th Anniversary Edition -- Page 484 )
+
+You have a personal code of ethics to which you adhere. The specifics of this code must be worked out with the Storyteller prior to play, and the character must follow it strictly. Characters with this Merit gain two additional dice to all Willpower or Virtue rolls when acting in accordance with their code (e.g., defending the helpless) or when attempting to avoid situations that might force them to violate their code.
+
+
+{ 2 }_Computer Aptitude_( Vampire: The Masquerade 20th Anniversary Edition -- Page 484 )
+
+You are familiar with and talented in the uses of computer equipment. Other Kindred may not understand computers, but to you they are intuitive. All rolls involving computers are at -2 difficulty for you.
+
+
+{ 2 }_Cultural Chameleon_( Hunters Hunted II -- Page 141 )
+
+Prerequisite: Arcanum Member
+
+You're able to quickly pick up on social cues, local customs, phrases, modes of dress, and other little things particular about a place. If you're able to address those (can change your clothes, able to speak the language, etc.), anyone attempting to discern if you don't belong there suffer a two die penalty. Either way, you receive two extra dice for any action to find others who don't belong somewhere.
+
+
+{ 2 }_Eidetic Memory_( Vampire: The Masquerade 20th Anniversary Edition -- Page 484 )
+
+You remember, with perfect detail, things you see and hear. Documents, photographs, conversations, etc., can be committed to memory with only minor concentration. Under stressful conditions involving numerous distractions, you must make a Perception + Alertness roll (difficulty 6) to summon enough concentration to absorb what your senses detect.The Arcanum views those with eidetic memory as a double-edged sword. On one hand, they're very useful not only for recounting off-site research but also with reconstructing any destroyed research that they've previously read. On the other hand, the problem with someone who is effectively a walking library is that anyone can grab that person off the street and forcefully check out the information he has in his mind. {} Hunters Hunted II -- Page 141 }
+
+
+{ 2 }_Impressive Restraint_( Lore Of The Clans -- Page 200 )
+
+Prerequisites: Toreador; cannot have the Virtue of Instinct
+
+When you haven't fed, it can be torturous to be near mortals. The pounding thrum of blood through their veins does not leave you nearly as tempted as it might other Kindred. When opportunity presents itself, the difficulty of all Self-Control rolls to resist hunger are made against a -2 difficulty. Characters on Paths of Enlightenment that require Instinct cannot take this Merit.
+
+
+{ 2 }_Light Sleeper_( Vampire: The Masquerade 20th Anniversary Edition -- Page 485 )
+
+You can awaken instantly at any sign of trouble or danger, and do so without any sleepiness or hesitation. You may ignore rules regarding how Humanity or your morality Path restricts the number of dice available during the day.
+
+
+{ 2 }_Master Of The Masquerade_( Lore Of The Clans -- Page 200 )
+
+Prerequisites: Toreador
+
+There are many small tics, nervous habits, and autonomous bodily functions (like breathing) that Kindred simply forget to do. They can be unnervingly still or forget to breathe, particularly when they think they're alone. You never let down your guard. The act of breathing remains an unconscious habit to you, and you never lapse into that eerie statue-like stillness, even when transfixed or concentrating. Consequently, the difficulties of all Social rolls are lowered by one when interacting with mortals. This Merit does not allow you to eat food or benefit from the blush of health -- those Merits are still required to be a true master of the Masquerade.
+
+
+{ 2 }_Natural Linguist_( Vampire: The Masquerade 20th Anniversary Edition -- Page 485 )
+
+You have a flair for languages. You may add three dice to any dice pool involving written or spoken languages, and each purchase of the Language Merit (previous page) gives you two languages instead of just one.
+
+
+{ 2 }_Pain Tolerance_( Lore Of The Clans -- Page 238 )
+
+Prerequisites: Tzimisce
+
+Maybe you are a badass or shut off your nerves through Vicissitude. Maybe your sire put you through so many intricate hells that it would be tough for anyone else to compete. Maybe it just turns you on. Regardless, at Hurt or Injured, you suffer no wound penalties, though you still suffer full penalties at Wounded and below. You must have a Conviction or Courage rating of 3 or more to take this Merit.
+
+
+{ 3 }_Calm Heart_( Vampire: The Masquerade 20th Anniversary Edition -- Page 485 )
+
+You are naturally calm and do not easily fly off the handle. You receive two extra dice when attempting to resist a frenzy. Brujah may not take this Merit.
+
+
+{ 3 }_Dracon's Temperament_( Lore Of The Clans -- Page 238 )
+
+Prerequisites: Tzimisce
+
+You emulate the ideal of Azi Dahaka within and without, to levels visceral and abstract. Your psyche flows with the permutable nature of change. Like the protean Dracon, you are a whirlwind of temperaments. This is not multiple personalities. You are one identity shown through the prism of ever-shifting Natures. No anchor fetters your sense of self. You can be any you.At the start of each story, you may choose one Personality Archetype to function as your Nature, spending the rest of the story perceiving the world through that perspective. You also regain Willpower according to your new Nature and may be affected by other effects or Discipline powers as per your new Nature as well.
+
+
+{ 3 }_Heart Of Needles_( Lore Of The Clans -- Page 182 )
+
+Prerequisites: Ravnos
+
+Your natural abilities with illusions have rendered you particularly jaded and unimpressible. How can anything be as perfect as your own imagination? Because of this, your heart is harder than most, and you have a significant resistance to emotion control. All powers and Social challenges that attempt to manipulate you emotionally are made at a +2 difficulty.
+
+
+{ 3 }_Iron Will_( Vampire: The Masquerade 20th Anniversary Edition -- Page 485 )
+
+When you are determined and your mind is set, nothing can thwart you from your goals. Characters using Dementation, Dominate, or any other mind-altering magic, spell, or Thaumaturgy path against your character are at +3 difficulty. Elder levels of powers like Dementation and Dominate may overwhelm even this resistance. Against Level Six powers, the expenditure of a Willpower point through Iron Will only raises the difficulty of the Discipline roll by two. Against Level Seven powers, the difficulty is increased by only one. Level Eight and higher powers cannot be resisted with Iron Will. This Merit does not affect Presence or other powers dealing with the emotions. Characters will Willpower scores below 8 cannot take this Merit.
+
+
+{ 3 }_Precocious_( Vampire: The Masquerade 20th Anniversary Edition -- Page 485 )
+
+You learn quickly. The time for you to pick up a particular Ability (or Abilities, at Storyteller discretion) is cut in half, as is the experience cost.
+
+
+{ 3 }_Sense Influence_( Hunters Hunted II -- Page 151 )
+
+Prerequisite: Criminal
+
+Through training and working with other experienced hunters, you have the ability to buy the Awareness Skill. Further, you can get a sense that someone is controlled by some supernatural influence or ghostly presence with a Perception + Awareness roll, difficulty 8.
+
+
+{ 4 }_Detached_( Hunters Hunted II -- Page 42 )
+
+Prerequisite: Hunter; Possession of Psychic Numina
+
+Your hunter has the rare ability to view his psychic abilities as separate from his physical existence and can maintain this distance even under adverse conditions. Wound penalties don't affect the use of Psychic Numina until your character reaches Incapacitated. If he's Incapacitated, then you may spend a Willpower point to use a Psychic Numina power at half the normal dice pool (rounded down). This action may be performed only once per scene, after which the character falls unconscious, so choose last-ditch efforts carefully. Note: This Merit may be used in conjunction only with Psychic Numina.
+
+
+{ 4 }_King Or Queen Of Shadow_( Lore Of The Clans -- Page 122 )
+
+Prerequisites: Lasombra
+
+It is hard to hold onto your Humanity within the Sabbat, or even simply as a vampire. However, you draw strength from your ability to empathize with the kine. Any degeneration checks you make while on Path of Humanity reduce their difficulty by two.
+
+
+{ 4 }_Long-Term Planning_( Lore Of The Clans -- Page 123 )
+
+Prerequisites: Lasombra
+
+You never leave anything to chance; every action is a carefully considered stratagem. Once per session you may declare an action you are about to take is actually "all part of your plan" and reduce its difficulty by two points. The Storyteller may veto the use of this ability on particular rolls. The player and Storyteller should keep a note of each of these occasions and decide how they are linking together into a grand scheme.
+
+
+{ 5 }_Slowed Degeneration_( Lore Of The Clans -- Page 200 )
+
+Prerequisites: Toreador; follower of the Path of Humanity
+
+Your Humanity is strong and can more easily withstand the Beast's assaults. You gain two additional dice on any Conscience roll. This degree of moral resilience allows a well-behaved vampire to lose Humanity at a much slower rate than would otherwise be possible. Only vampires following Humanity may take this Merit, and the Merit is lost forever in the event that the vampire takes up another Path of Enlightenment.
